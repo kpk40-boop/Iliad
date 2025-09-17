@@ -3,7 +3,7 @@ Katie Klinefelter, Isa Porter, Cheyenne Brady, Kosi Edoziem
 
 Project mentor: Professor Pickett
 
-John Andrew Wein 
+Outside faculty member: John Andrew Wein 
 
 Meeting time: 6:30 pm on Sunday
 
