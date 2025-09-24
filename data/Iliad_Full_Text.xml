@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/8.19/tei-epidoc.rng"
-  schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<?xml-model href="file:/Users/kosiedoziem/Desktop/Iliad/base_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
