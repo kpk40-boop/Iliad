@@ -1,7 +1,7 @@
 # Iliad
 Katie Klinefelter, Isa Porter, Cheyenne Brady, Kosi Edoziem
 
-Project mentor: Professor Pickett
+Project mentor: Cole Belling
 
 Outside faculty member: John Andrew Wein 
 
