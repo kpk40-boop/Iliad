@@ -5,7 +5,7 @@ Project mentor: Cole Belling
 
 Outside faculty member: John Andrew Wein 
 
-Meeting time: 6:30 pm on Sunday
+Meeting time: 6:00 pm on Monday
 
 How many times does the ancient Greek word for "man/husband" come up in Homer's Iliad, and in what context? 
 
