@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.NavBar {
+    background-color: beige;
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+body {
+    background-image: url("iliad_image.jpg");
+    color: beige;
+    text-align: center;
+}
+
+.test {
+    width: auto;
+    overflow-wrap: break-word;
+}
+
+h1 {
+    padding: 20px;
+}
+
+h2 {
+    padding: 30px;
+}
+
