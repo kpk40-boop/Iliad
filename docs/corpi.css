@@ -50,3 +50,16 @@ span.man {
   color: maroon;
   font-weight: bold;
 }
+
+
+
+h1 {
+    padding: 30px;
+    font-size: 50px;
+}
+
+
+p {
+    padding: 30px;
+    font-size: 30px;
+}
