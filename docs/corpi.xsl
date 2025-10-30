@@ -11,7 +11,7 @@
     <xsl:template match="/">
         <html xmlns="http://www.w3.org/1999/xhtml">
             <head>
-                <title>Test</title>
+                <title>Iliad</title>
                 <link rel="stylesheet" type="text/css" href="corpi.css"/>
             </head>
             <body>
