@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("/Users/kosiedoziem/Desktop/Iliad/docs/iliad_image.jpg");
+}
+
+div {
+    border: solid 2px;
+    margin: 20px;
+    color: beige;
+    background-color: #8B6B4A;
+}
+
+a {
+    text-decoration: none;
+    color: #965023;
+    font-weight: bold;
+}
+
+h1 {
+    text-align:center;
+    color: beige;
+    margin: 20px;
+}
+
+div.NavBar {
+    border: 0;
+    margin: 0;
+    background-color: beige;
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+      color: #8B6B4A;
+  text-decoration: none;
+  transition: background 0.3s;
+
+}
+
+div.NavBar a:hover {
+  color: maroon;
+  text-decoration: underline;
+}
+
+span.man {
+  color: maroon;
+  font-weight: bold;
+}
