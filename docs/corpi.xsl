@@ -12,14 +12,14 @@
         <html xmlns="http://www.w3.org/1999/xhtml">
             <head>
                 <title>Test</title>
-                <link rel="stylesheet" type="text/css" href="/Users/kosiedoziem/Desktop/Iliad/docs/corpi.css"/>
+                <link rel="stylesheet" type="text/css" href="corpi.css"/>
             </head>
             <body>
                 <div class="NavBar">
-                    <a href="/Users/kosiedoziem/Desktop/Iliad/docs/index.xhtml">Home</a>
+                    <a href="index.xhtml">Home</a>
                     <a href="#">About</a>
                     <a href="#">Characters</a>
-                    <a href="/Users/kosiedoziem/Desktop/Iliad/docs/corpi.xhtml">Corpi</a>
+                    <a href="corpi.xhtml">Corpi</a>
                     <a href="#">Contact</a>
                 </div>
                 
