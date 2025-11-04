@@ -4,21 +4,41 @@
     box-sizing: border-box;
 }
 
+body {
+    background-image: url("iliad_image.jpg");
+}
+
+div {
+    border: solid 2px;
+    margin: 20px;
+    color: beige;
+    background-color: #8B6B4A;
+}
+
 a {
     text-decoration: none;
     color: #965023;
     font-weight: bold;
 }
 
+h1 {
+    text-align:center;
+    color: beige;
+    margin: 20px;
+}
+
 div.NavBar {
+    border: 0;
+    margin: 0;
     background-color: beige;
     padding: 1rem;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    color: #8B6B4A;
-    text-decoration: none;
-    transition: background 0.3s
+      color: #8B6B4A;
+  text-decoration: none;
+  transition: background 0.3s;
+
 }
 
 div.NavBar a:hover {
@@ -26,16 +46,12 @@ div.NavBar a:hover {
   text-decoration: underline;
 }
 
-body {
-    background-image: url("iliad_image.jpg");
-    color: beige;
-    text-align: center;
+span.man {
+  color: maroon;
+  font-weight: bold;
 }
 
-.test {
-    width: auto;
-    overflow-wrap: break-word;
-}
+
 
 h1 {
     padding: 30px;
@@ -47,5 +63,3 @@ p {
     padding: 30px;
     font-size: 30px;
 }
-
-

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/8.19/tei-epidoc.rng"
   schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../docs/corpi.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -340,7 +341,7 @@
                   <p>
                      <milestone n="200" unit="line"/>from heaven (for Hera had sent her in the love
                      she bore to them both), and seized the son of Peleus by his yellow hair,
-                     visible to him alone, for of the others no <man character="generic">man</man><character= "generic"></character></man> could see her. Achilles turned
+                     visible to him alone, for of the others no <man character="generic">man</man> could see her. Achilles turned
                      in amaze, and by the fire that flashed from her eyes at once knew that she was
                   </p>
                </div>
@@ -448,7 +449,7 @@
                      <milestone n="275" unit="line"/>Therefore, Agamemnon, though you be
                      prestigious, take not this girl away, for the sons of the Achaeans have already
                      given her to Achilles; and you, Achilles, strive not further with the king, for
-                     no <man character="generic">man</man><character= "generic"></character></man> who by the grace of Zeus wields a scepter has like honor [<term
+                     no <man character="generic">man</man> who by the grace of Zeus wields a scepter has like honor [<term
                         xml:lang="grc">timê</term>] with Agamemnon. </p>
                </div>
 
@@ -1635,7 +1636,7 @@
 
                   <p>
                      <milestone n="550" unit="line"/>with sacrifices of bulls and rams. These were
-                     commanded by Menestheus, son of Peteos. no <man character="generic">man</man><character= "generic"></character></man> living could equal him in the
+                     commanded by Menestheus, son of Peteos. no <man character="generic">man</man> living could equal him in the
                      marshaling of chariots and foot soldiers. </p>
 
                   <p>
@@ -2313,7 +2314,7 @@
                      unpracticed in oratory - one might have taken him for a mere churl or
                      simpleton; but when he raised his voice, and the words came driving from his
                      deep chest like winter snow before the wind, then there was none to touch him,
-                     and no <man character="generic">man</man><character= "generic"></character></man> thought further of what he looked like." </p>
+                     and no <man character="generic">man</man> thought further of what he looked like." </p>
 
                   <p>
                      <milestone n="225" unit="line"/>Priam then caught sight of Ajax and asked, "Who
@@ -2903,7 +2904,7 @@
                      upbraid him. "Son of Tydeus," he said, "why stand you cowering here upon the
                      brink of battle? Tydeus did not shrink thus, but was ever ahead of his men when
                      leading them on against the foe - so, at least, say they that saw him in
-                     battle, for I never set eyes upon him myself. They say that there was no <man character="generic">man</man><character= "generic"></character></man>
+                     battle, for I never set eyes upon him myself. They say that there was no <man character="generic">man</man>
                      like him. He came once to <placeName key="perseus,Mycenae">Mycenae</placeName>,
                      not as an enemy but as a guest, in company with Polyneikes to recruit his
                      forces, for they were levying war against the strong city of <placeName
@@ -2957,7 +2958,7 @@
                      the shore; it bows its arching crest high over the jagged rocks and spews its
                      salt foam in all directions - even so did the serried phalanxes of the Danaans
                      march steadfastly to battle. The chiefs gave orders each to his own people, but
-                     the men said never a word; no <man character="generic">man</man><character= "generic"></character></man> would think it, for huge as the host was, it
+                     the men said never a word; no <man character="generic">man</man> would think it, for huge as the host was, it
                      seemed as though there was not a tongue among them, so silent were they in
                      their obedience; and as they marched the armor about their bodies glistened in
                      the sun. But the clamor of the Trojan ranks was as that of many thousand ewes
@@ -3061,7 +3062,7 @@
                      and many another fell round them. </p>
 
                   <p>
-                     <milestone n="539" unit="line"/>And now no <man character="generic">man</man><character= "generic"></character></man> would have made light of the
+                     <milestone n="539" unit="line"/>And now no <man character="generic">man</man> would have made light of the
                      fighting if he could have gone about among it scatheless and unwounded, with
                      Athena leading him by the hand, and protecting him from the storm of spears and
                      arrows. For many Trojans and Achaeans on that day lay stretched side by side
@@ -3144,7 +3145,7 @@
                   <p>
                      <milestone n="69" unit="line"/>Meges, moreover, slew Pedaios, son of Antenor,
                      who, though he was a bastard, had been brought up by Theano as one of her own
-                     children, for the love she bore her <husband><charcter="Antenor"></character></husband>. The son of Phyleus got close up to
+                     children, for the love she bore her <husband character="Antenor">husband</husband>. The son of Phyleus got close up to
                      him and drove a spear into the nape of his neck: it went under his tongue all
                      among his teeth, so he bit the cold bronze, and fell</p>
                   <p>dead in the dust.</p>
@@ -3155,7 +3156,7 @@
                      and was honored in the <term xml:lang="grc">dêmos</term> as though he were a
                      god. Eurypylos gave him chase as he was fleeing before him, smote him with his
                      sword upon the arm, and lopped his strong hand from off it. The bloody hand
-                     fell to the ground, and the shades of death, with fate that no <man character="generic">man</man><character= "generic"></character></man> can
+                     fell to the ground, and the shades of death, with fate that no <man character="generic">man</man> can
                      withstand, came over his eyes. </p>
                   <p> </p>
                   <p>
@@ -3249,7 +3250,7 @@
                      ranks, he went through the fight amid the rain of spears to see if he could
                      find Pandaros. When he had found the brave son of Lykaon he said, "Pandaros,
                      where is now your bow, your winged arrows, and your renown [<term
-                        xml:lang="grc">kleos</term>] as an archer, in respect of which no <man character="generic">man</man><character= "generic"></character></man> here
+                        xml:lang="grc">kleos</term>] as an archer, in respect of which no <man character="generic">man</man> here
                      can rival you nor is there any in <placeName key="tgn,7001294"
                         >Lycia</placeName> that can beat you? Lift then your hands to Zeus and send
                      an arrow at this <man character="Turnus">man</man> who is going so masterfully about, </p>
@@ -3326,7 +3327,7 @@
                      "Talk not of flight, for I shall not listen to you: I am of a race that knows
                      neither flight nor fear, and my limbs are as yet unwearied. I am in no mind to
                      mount, but will go against them even as I am; Pallas Athena bids me be afraid
-                     of no <man character="generic">man</man><character= "generic"></character></man>, and even though one of them escape, their steeds shall not take both
+                     of no <man character="generic">man</man>, and even though one of them escape, their steeds shall not take both
                      back again. I say further, </p>
 
                   <p>
@@ -3471,7 +3472,7 @@
                      the wound, for Hades was not of mortal mold. Daring, head-strong, evildoer who
                      recked not of his evil deed in shooting the gods that dwell in <placeName
                         key="tgn,7011019">Olympus</placeName>. And now Athena has egged this son of
-                     Tydeus on against yourself, fool that he is for not reflecting that no <man character="generic">man</man><character= "generic"></character></man> who
+                     Tydeus on against yourself, fool that he is for not reflecting that no <man character="generic">man</man> who
                      fights with gods will live long or hear his children prattling about his knees
                      when he returns from battle. Let, then, the son of Tydeus see that he does not
                      have to fight with one who is stronger than you are. </p>
@@ -3993,7 +3994,7 @@
 
                   <p>
                      <milestone n="66" unit="line"/>Meanwhile Nestor shouted to the Argives, saying,
-                     "My friends, Danaan warriors, squires [therapontes] of Ares, let no <man character="generic">man</man><character= "generic"></character></man> lag
+                     "My friends, Danaan warriors, squires [therapontes] of Ares, let no <man character="generic">man</man> lag
                      that he may spoil the dead, and bring back much booty to the ships. Let us kill
                      as many as we can; the bodies will lie upon the plain, and you can despoil them
                      later at your leisure."</p>
@@ -4317,7 +4318,7 @@
                      Skamandrios, but the people called him Astyanax, for his father stood alone as
                      chief guardian of <placeName key="tgn,7002329">Ilion</placeName>. Hektor smiled
                      as he looked upon the boy, but he did not speak, and Andromache stood by him
-                     weeping and taking his hand in her own. "Dear <husband><charcter="Hektor"></character></husband>," said she, "your valor
+                     weeping and taking his hand in her own. "Dear <husband character="Hektor">husband</husband>," said she, "your valor
                      will bring you to destruction; think on your infant son, and on my hapless self
                      who ere long shall be your widow - for the Achaeans will set upon you in a body
                      and kill you. It would be better for me, should I lose you, to lie dead and
@@ -4333,7 +4334,7 @@
                      who had been queen of all the land under Mount Plakos - he brought hither with
                      the spoil, and freed her for a great sum, but the archer - queen Artemis took
                      her in the house of your father. Nay - Hektor - you who to me are father,
-                     mother, brother, and dear <husband><charcter="Hektor"></character></husband>  - have mercy upon me;</p>
+                     mother, brother, and dear <husband character="Hektor">husband</husband>  - have mercy upon me;</p>
 
                   <p>
                      <milestone n="429" unit="line"/>stay here upon this wall; make not your child
@@ -4385,7 +4386,7 @@
                   <p>
                      <milestone n="482" unit="line"/>With this he laid the child again in the arms
                      of his wife, who took him to her own soft bosom, smiling through her tears. As
-                     her <husband><charcter="Hektor"></character></husband>  watched her his heart yearned towards her and he caressed her
+                     her <husband character="Hektor">husband</husband>  watched her his heart yearned towards her and he caressed her
                      fondly, saying, "My own wife, do not take these things too bitterly to heart.
                      No one can hurry me down to Hades before my time, but if a man's hour is come,
                      be he brave or be he coward, there is no escape for him when he has once been
@@ -4426,7 +4427,7 @@
 
                   <p>
                      <milestone n="520" unit="line"/>"My good brother," answered Hektor, you fight
-                     bravely, and no <man character="generic">man</man><character= "generic"></character></man> with any justice can make light of your doings in battle.
+                     bravely, and no <man character="generic">man</man> with any justice can make light of your doings in battle.
                      But you are careless and willfully remiss. It grieves me to the heart to hear
                      the ill that the Trojans speak about you, for they have suffered much toil
                         [<term xml:lang="grc">ponos</term>] on your account. Let us be going, and we
@@ -4538,7 +4539,7 @@
                      peace, ashamed to decline the challenge, yet fearing to accept it, till at last
                      Menelaos rose and rebuked them, for he was angry. "Alas," he cried, "vain
                      braggarts, women indeed not men, double-dyed indeed will be the stain upon us
-                     if no <man character="generic">man</man><character= "generic"></character></man> of the Danaans will now face Hektor. May you be turned every <man character="generic">man</man> of
+                     if no <man character="generic">man</man> of the Danaans will now face Hektor. May you be turned every <man character="generic">man</man> of
                      you into earth and water as you sit spiritless and inglorious in your places. I
                      will myself go out against this man, but the upshot of the fight will be from
                      on high in the hands of the immortal gods." </p>
@@ -4629,7 +4630,7 @@
                   <p>
                      <milestone n="194" unit="line"/>meanwhile, pray to King Zeus in silence among
                      yourselves that the Trojans may not hear you - or aloud if you will, for we
-                     fear no <man character="generic">man</man><character= "generic"></character></man>. None shall overcome me, neither by force nor cunning, for I was
+                     fear no <man character="generic">man</man>. None shall overcome me, neither by force nor cunning, for I was
                      born and bred in <placeName key="tgn,7002340">Salamis</placeName>, and can hold
                      my own in all things." </p>
 
@@ -4826,7 +4827,7 @@
                      "Idaios, you have heard the answer the Achaeans make you-and I with them. But
                      as concerning the dead, I give you leave to burn them, for when men are once
                      dead there should be no grudging them the rites of fire. Let Zeus the mighty
-                     <husband><charcter="Zeus"></character></husband>  of Hera be witness to this covenant." </p>
+                     <husband character="Zeus">husband</husband>  of Hera be witness to this covenant." </p>
 
                   <p>
                      <milestone n="412" unit="line"/>As he spoke he upheld his scepter in the sight
@@ -5044,7 +5045,7 @@
                      Then he was afraid and said to Diomedes, "Son of Tydeus, turn your horses in
                      flight; see you not that the hand of Zeus is against you? To-day he grants
                      victory to Hektor; tomorrow, if it so please him, he will again grant it to
-                     ourselves; no <man character="generic">man</man><character= "generic"></character></man>, however brave, may thwart the purpose [noon] of Zeus, for he
+                     ourselves; no <man character="generic">man</man>, however brave, may thwart the purpose [noon] of Zeus, for he
                      is far stronger than any." </p>
 
                   <p>
@@ -5094,7 +5095,7 @@
                      goodly Lampos, pay me for your keep now and for all the honey-sweet grain with
                      which Andromache daughter of great Eetion has fed you, and for she has mixed
                      wine and water for you to drink whenever you would, before doing so even for me
-                     who am her own <husband><charcter=" Hektor"></character></husband>. Haste in pursuit, that we may take the shield of
+                     who am her own <husband character=" Hektor">husband</husband>. Haste in pursuit, that we may take the shield of
                      Nestor, the fame [<term xml:lang="grc">kleos</term>] of which ascends to
                      heaven, for it is of solid gold, arm-rods and all, and that we may strip from
                      the shoulders of Diomedes. the cuirass which Hephaistos made him. Could we take
@@ -5163,7 +5164,7 @@
 
                <div type="textpart" n="253" subtype="card">
                   <p>
-                     <milestone n="253" unit="line"/>There was no <man character="generic">man</man><character= "generic"></character></man> of all the many Danaans who
+                     <milestone n="253" unit="line"/>There was no <man character="generic">man</man> of all the many Danaans who
                      could then boast that he had driven his horses over the trench and gone forth
                      to fight sooner than the son of Tydeus; long before any one else could do so he
                      slew an armed warrior of the Trojans, Agelaos the son of Phradmon. He had
@@ -6437,7 +6438,7 @@
 
                   <p>
                      <milestone n="328" unit="line"/>When he had done speaking Hektor held up his
-                     scepter, and swore him his oath saying, "May Zeus the thundering <husband><charcter="Zeus"></character></husband>  of
+                     scepter, and swore him his oath saying, "May Zeus the thundering <husband character="Zeus">husband</husband>  of
                      Hera bear witness that no other Trojan but yourself shall mount those steeds,
                      and that you shall have your will with them for ever." </p>
 
@@ -8387,7 +8388,7 @@
                      Priam because in spite his brave deeds he did not give him his due share of
                      honor. Deiphobos went up to him and said, "Aeneas, prince among the Trojans, if
                      you know any ties of kinship, help me now to defend the body of your sister's
-                     <husband><charcter="Alkathoos"></character></husband>; come with me to the rescue of Alkathoos, who being <husband><charcter="Alkathoos"></character></husband>  to your
+                     <husband character="Alkathoos">husband</husband>; come with me to the rescue of Alkathoos, who being <husband character="Alkathoos">husband</husband>  to your
                      sister brought you up when you were a child in his house, and now Idomeneus has
                      slain him." </p>
 
@@ -9254,7 +9255,7 @@
                      Trojans, vaunting over them as he did so. "Trojans," he cried, "bid the father
                      and mother of noble Ilioneus make moan for him in their house, for the wife
                      also of Promakhos son of Alegenor will never be gladdened by the coming of her
-                     dear <husband><charcter="Alegenor"></character></husband>  - when we Argives return with our ships from <placeName
+                     dear <husband character="Alegenor">husband</husband>  - when we Argives return with our ships from <placeName
                         key="perseus,Troy">Troy</placeName>." </p>
 
                   <p>
@@ -9357,11 +9358,11 @@
                      all of them came up to her, and held out their cups to her by way of greeting.
                      She let the others be, but took the cup offered her by lovely Themis, who was
                      first to come running up to her. "Hera," said she, "why are you here? And you
-                     seem troubled - has your <husband><charcter="Zeus"></character></husband>  the son of Kronos been frightening you?" </p>
+                     seem troubled - has your <husband character="Zeus">husband</husband>  the son of Kronos been frightening you?" </p>
 
                   <p>
                      <milestone n="93" unit="line"/>And Hera answered, "Themis, do not ask me about
-                     it. You know what a proud and cruel disposition my <husband><charcter="Zeus"></character></husband>  has. Lead the gods
+                     it. You know what a proud and cruel disposition my <husband character="Zeus">husband</husband>  has. Lead the gods
                      to table, where you and all the immortals can hear the wicked designs which he
                      has avowed. Many a one, mortal and immortal, will be angered by them, however
                      peaceably he may be feasting now." </p>
@@ -10080,7 +10081,7 @@
                      so that you may win me great honor [<term xml:lang="grc">timê</term>] from all
                      the Danaans, and that they may restore the girl to me again and give me rich
                      gifts into the bargain. When you have driven the Trojans from the ships, come
-                     back again. Though Hera's thundering <husband><charcter="Zeus"></character></husband>  should put triumph within your
+                     back again. Though Hera's thundering <husband character="Zeus">husband</husband>  should put triumph within your
                      reach, do not fight the Trojans further in my absence, or you will rob me of
                      glory that should be mine. And do not for lust of battle go on killing the
                      Trojans nor lead the Achaeans on to <placeName key="tgn,7002329"
@@ -12421,7 +12422,7 @@
                      multiply upon me one after the other. I saw him to whom my father and mother
                      married me, cut down before our city, and my three own dear brothers perished
                      with him on the self-same day; but you, Patroklos, even when Achilles slew my
-                     <husband><charcter="Mynes"></character></husband>  and sacked the city of noble Mynes, told me that I was not to weep, for
+                     <husband character="Mynes">husband</husband>  and sacked the city of noble Mynes, told me that I was not to weep, for
                      you said you would make Achilles marry me, and take me back with him to
                         <placeName key="perseus,Phthia">Phthia</placeName>, we should have a wedding
                      feast among the Myrmidons. You were always kind to me and I shall never cease
@@ -14067,7 +14068,7 @@
 
                   <p>
                      <milestone n="437" unit="line"/>Hektor's wife had as yet heard nothing, for no
-                     one had come to tell her that her <husband><charcter="Hektor"></character></husband>  had remained without the gates. She
+                     one had come to tell her that her <husband character="Hektor">husband</husband>  had remained without the gates. She
                      was at her loom in an inner part of the house, weaving a double purple web, and
                      embroidering it with many flowers. She told her maids to set a large tripod on
                      the fire, so as to have a warm bath ready for Hektor when he came out of
@@ -14084,7 +14085,7 @@
                      children must be at hand. May I never live to hear it, but I greatly fear that
                      Achilles has cut off the retreat of brave Hektor and has chased him on to the
                      plain where he was singlehanded; I fear he may have put an end to the reckless
-                     daring which possessed my <husband><charcter="Hektor"></character></husband>, who would never remain with the body of his
+                     daring which possessed my <husband character="Hektor">husband</husband>, who would never remain with the body of his
                      men, but would dash on far in front, foremost of them all in valor." </p>
 
                   <p>
