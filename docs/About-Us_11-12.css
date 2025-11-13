@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* For the colors, and image, I followed Kosi's Corpus CSS */
+body {
+  background-image: url("iliad_image.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: beige;
+  text-align: center;
+  line-height: 1.6;
+}
+
+h1 {
+  padding: 40px;
+  font-size: 50px;
+  color: beige;
+  margin-bottom: 2rem;
+}
+
+div.NavBar {
+    border: 0;
+    margin: 0;
+    background-color: beige;
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+      color: #8B6B4A;
+  text-decoration: none;
+  transition: background 0.3s;
+
+}
+
+section {
+  background-color: rgba(245, 245, 220, 0.85); 
+  color: #8B6B4A; 
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 2rem;
+  text-align: left;
+}
+
+section h2 {
+  color: #965023;
+  border-bottom: 2px solid #965023;
+  margin-bottom: 1rem;
+  text-align: center;
+  font-size: 1.8rem;
+}
+
+section p, section li {
+  font-size: 1.2rem;
+  color: #5e4025;
+}
+
+.team-member {
+  background-color: rgba(255, 255, 240, 0.9);
+  border: 1px solid #8B6B4A;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+.team-member h3 {
+  color: #965023;
+  margin-bottom: 0.5rem;
+}
+
+ol {
+  padding-left: 2rem;
+}
+
+a {
+  text-decoration: none;
+  color: #965023;
+  font-weight: bold;
+}
+
+a:hover {
+  color: maroon;
+  text-decoration: underline;
+}
+
+@media (max-width: 700px) {
+  h1 {
+    font-size: 2rem;
+    padding: 20px;
+  }
+
+  section {
+    padding: 1.2rem;
+  }
+
+  section p {
+    font-size: 1rem;
+  }
+}
