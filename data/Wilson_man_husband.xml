@@ -2,22 +2,22 @@
 <Iliad_Wilson>
     <p>
         <character name= "Achilles">
-          <scroll number="1"><li number= "285"> 
+          <!--<scroll number="1"><li number= "285"> 
              <text>Lord Agamemmnon replied, "Old man, all that is well and good.
              But this <man character= "Achilles">man</man> wants to be superior
              to everybody else- to dominate, to lead us all, to rule us all,
-             to give orders to everyone."</text></li></scroll>    
+             to give orders to everyone."</text></li></scroll>-->    
             
           <scroll number= "2"><li mumber= "239">
               <text>Just now he brought dishonor to Achilles who is a better
                   <man character= "Achilles">man</man> than him by far.
               </text></li></scroll>   
             
-          <scroll number= "11"><li number= "644">
+          <!--<scroll number= "11"><li number= "644">
              <text>"This is no time for sitting down, old king. I will not do it. 
                  The <man character= "Achilles">man</man> who sent me here requires respect,
-                 and he is quick to anger." <!-- This wasn't in Butler -->
-             </text></li></scroll>
+                 and he is quick to anger." <!-\- This wasn't in Butler -\->
+             </text></li></scroll>-->
             
             <li number= "651"/>
              <text>"The <man character= "Achilles">man</man> is dangerous and quick to blame
@@ -45,7 +45,7 @@
               he is."<!-- Man shows up here, but is not in Butler. In Butler, 
               man shows up around line 250 but not in Wilson--></text></li></scroll>
             
-            <scroll number= "20"><li number= "332">
+           <!-- <scroll number= "20"><li number= "332">
                 <text>"Aeneas, which god has made you so delusional? Which god
                 commanded you to fight against the haughty son of Peleus,
                 who is much stronger than you are, and loved more dearly
@@ -53,30 +53,30 @@
                 encounter him, or else you may arrive inside the house of
                 Hades before your proper time. But once Achilles has met his 
                 death, his destiny, take courage, and boldly face the fighters
-                at the front, because no other Greek will slaughter you."<!-- no 
-                man used, but there is in Butler-->
-                </text></li></scroll>
+                at the front, because no other Greek will slaughter you."<!-\- no 
+                man used, but there is in Butler-\->
+                </text></li></scroll>-->
             
             <li number= "607"/>
                 <text>Achilles had no sweetness in his heart, no softness in 
                 his mind. He was riled up with frenzied eagerness to fight and 
                 kill. <!-- No man used, but used in Butler --></text>
             
-            <scroll number= "21"><li number= "263">
+           <!-- <scroll number= "21"><li number= "263">
                 <text>the water gushes forth and all the pebbles
                 are swept away, and gurgling as it goes the stream flows
                 down the slope, soon overtaking the <man character= "Achilles">man
-                who made it</man></text></li></scroll>
+                who made it</man></text></li></scroll>-->
             
-            <li number= "538"/>
+          <!--  <li number= "538"/>
                 <text>"I am afriad that deadly <man character= "Achilles">man
-                </man>may leap inside the city past the wall."</text>
+                </man>may leap inside the city past the wall."</text>-->
             
-            <li number= "571"/>
+            <!--<li number= "571"/>
                 <text>With these words, he crouched down and waited for 
                 Achilles. His brave heart felt stirred to fight. As when a leopard
                 moves out of the undergrowth to face the hunter, and feels no
-                fear or trembling in her heart <!-- no man --></text>
+                fear or trembling in her heart <!-\- no man -\-></text>-->
                 
         </character>
         
@@ -97,10 +97,10 @@
             Stay sharp! I will myself go face this <man character= "Patroklos">
                 man</man> and find out who is dominating us</text>
             
-            <li number= "810"/>
+            <!--<li number= "810"/>
             <text>That very day Euphorbus had arrived at Troy behind his horses
-            , and first learned the ways of war <!-- from 810-820 man is not used at all
-            like it is in Butler--></text>
+            , and first learned the ways of war <!-\- from 810-820 man is not used at all
+            like it is in Butler-\-></text>-->
             
             <scroll number= "17"><li number= "164">
                <text>This dead <man character= "Patroklos">man
@@ -113,19 +113,19 @@
                 when he was still alive, when he had been the comrade of 
                 Achilles.<!-- Man not used --></text>
             
-            <scroll number= "19"><li number= "5">
+            <!--<scroll number= "19"><li number= "5">
                 <text>"My child, we have to let him lie despite our grief,
                 because it is according to the will of gods that he is
                 gone, once and for all. Now you must take his glorious set
                 of armor, which no other man has ever worn."
-                <!-- man is used in a generic context here but not for Patroklos
-                --></text></li></scroll>
+                <!-\- man is used in a generic context here but not for Patroklos
+                -\-></text></li></scroll>-->
             
-            <scroll number= "21"><li number= "103">
+            <!--<scroll number= "21"><li number= "103">
                 <text>"But now, no Trojan will escape from death, whenever a god 
                 casts one of you into my hands in front of Troy-especially
-                sons of Priam." <!-- man is used a few lines down to refer to 
-                Achille's dad but not for Patroklos--></text></li></scroll>
+                sons of Priam." <!-\- man is used a few lines down to refer to 
+                Achille's dad but not for Patroklos-\-></text></li></scroll>-->
             
             <scroll number= "22"><li number= "385">
                 <text>"I will not forget Patroclus, never, while my
@@ -143,24 +143,24 @@
                former <husband character= "Menelaus">husband</husband>.</text></li></scroll>
            
            <li number= "163"/>
-                <text>"Dear chilod, come sit by me and watch your former
+                <text>"Dear child, come sit by me and watch your former
                 <husband character= "Menelaus">husband</husband> and family and friends 
                 and relatives.</text>
            
-           <li number= "210"/>
+           <!--<li number= "210"/>
                 <text>But when they sat, Odysseus had more authority. When they 
                 were weaving words and telling everybody their proposals, then 
-                Menelaus could speak fluently</text> <!-- no man used -->
+                Menelaus could speak fluently</text> <!-\- no man used -\->-->
            
            <li number= "427"/>
                 <text>"So you came back from the fighting. I wish that you had died
                 out there, defeated by that strong <man character= "Menelaus">man</man>
                 who used to by my <husband character= "Menelaus">husband</husband>.</text>
            
-           <scroll number= "23"><li number= "590">
+         <!--  <scroll number= "23"><li number= "590">
                 <text>Intelligent Antilochus replied, "Hold on now, Menelaus.
                 I am, sir, younger than you by far. You are my senior, and my superior.
-               <!-- no man --> </text></li></scroll>
+               <!-\- no man -\-> </text></li></scroll>-->
            
            
        </character>
