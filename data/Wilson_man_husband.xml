@@ -11,7 +11,7 @@
           <scroll number= "2"><li mumber= "239">
               <text>Just now he brought dishonor to Achilles who is a better
                   <man character= "Achilles">man</man> than him by far.
-              </text></li></scroll>   
+              </text></li>   
             
           <!--<scroll number= "11"><li number= "644">
              <text>"This is no time for sitting down, old king. I will not do it. 
@@ -19,31 +19,31 @@
                  and he is quick to anger." <!-\- This wasn't in Butler -\->
              </text></li></scroll>-->
             
-            <li number= "651"/>
+            <li number= "651">
              <text>"The <man character= "Achilles">man</man> is dangerous and quick to blame
                  even the blameless." <!-- These 2 are Patroklos talking about Achilles -->    
-            </text>
+             </text></li>
              
-             <li number= "786"/>
+             <li number= "786">
              <text>'My son, Achilles comes from higher birth, and he is stronger
              -but you are the elder. You must advise him, counsel him, direct him. It will 
              be better if he yields to you.'<!-- No man in this, but there is in Butler's.
-             This is someone talking to Patroklos about Achilles--></text>
+             This is someone talking to Patroklos about Achilles--></text></li></scroll>
             
           <scroll number= "16"><li number= "272">
              <text>He is by far the best of all the Greeks, and 
              his subordinates are best as well.<!-- No man used, but
-             used in Butler--></text></li></scroll>
+             used in Butler--></text></li>
            
-             <li number= "708"/>
+             <li number= "708">
               <text>"Even Achilles will not take this city,
               although he is superior to you."<!-- No man used, but used in Butler.
-              This is Apollo talking to Patroklos--></text>
+              This is Apollo talking to Patroklos--></text></li></scroll>
             
           <scroll number= "18"><li number= "269">
               <text>"and we will see what kind of <man character= "Achilles">man</man>
               he is."<!-- Man shows up here, but is not in Butler. In Butler, 
-              man shows up around line 250 but not in Wilson--></text></li></scroll>
+              man shows up around line 250 but not in Wilson--></text></li>
             
            <!-- <scroll number= "20"><li number= "332">
                 <text>"Aeneas, which god has made you so delusional? Which god
@@ -57,10 +57,10 @@
                 man used, but there is in Butler-\->
                 </text></li></scroll>-->
             
-            <li number= "607"/>
+            <li number= "607">
                 <text>Achilles had no sweetness in his heart, no softness in 
                 his mind. He was riled up with frenzied eagerness to fight and 
-                kill. <!-- No man used, but used in Butler --></text>
+                kill. <!-- No man used, but used in Butler --></text></li></scroll>
             
            <!-- <scroll number= "21"><li number= "263">
                 <text>the water gushes forth and all the pebbles
@@ -96,9 +96,9 @@
             <li number= "422">
             <text>"Lycians, for shame! Where are you running off to?
             Stay sharp! I will myself go face this <man character= "Patroklos">
-                man</man> and find out who is dominating us</text></li>
+                man</man> and find out who is dominating us</text></li></scroll>
                
-               </scroll>
+               
             
 
             
@@ -111,12 +111,12 @@
                <text>This dead <man character= "Patroklos">man
                </man> was the comrade of the best by far all the Greeks
                    beside the ships, and their battalion is the best
-                   as well</text></li></scroll>
+                   as well</text></li>
             
-            <li number= "270"/>
+            <li number= "270">
                 <text>Patroclus had been dear to him before, in former times,
                 when he was still alive, when he had been the comrade of 
-                Achilles.<!-- Man not used --></text>
+                Achilles.<!-- Man not used --></text></li></scroll>
             
             <!--<scroll number= "19"><li number= "5">
                 <text>"My child, we have to let him lie despite our grief,
@@ -145,7 +145,7 @@
             <scroll number= "3"><li number= "138">
                <text>With this, the goddess poured into her heart sweet
                longing for her city and her parents, and for her
-               former <husband character= "Menelaus">husband</husband>.</text></li></scroll>
+               former <husband character= "Menelaus">husband</husband>.</text></li>
            
            <li number= "163"/>
                 <text>"Dear child, come sit by me and watch your former
@@ -157,10 +157,10 @@
                 were weaving words and telling everybody their proposals, then 
                 Menelaus could speak fluently</text> <!-\- no man used -\->-->
            
-           <li number= "427"/>
+           <li number= "427">
                 <text>"So you came back from the fighting. I wish that you had died
                 out there, defeated by that strong <man character= "Menelaus">man</man>
-                who used to by my <husband character= "Menelaus">husband</husband>.</text>
+                    who used to by my <husband character= "Menelaus">husband</husband>.</text></li></scroll>
            
          <!--  <scroll number= "23"><li number= "590">
                 <text>Intelligent Antilochus replied, "Hold on now, Menelaus.
