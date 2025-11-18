@@ -87,15 +87,20 @@
             my heart." <!-- Okay so, in Butler "man" is used but in 
             Wilson "person" is used--></text></li></scroll>
             
-            <scroll number= "16"><li number= "317">
+            <scroll number= "16">
+            <li number= "317">
                <text>"When I go out with him into the wilds of Ares,
                my companion rages with hands that cannot be defeated.
-               <!-- Companion used instead of man --></text></li></scroll>
-            
-            <li number= "422"/>
+               <!-- Companion used instead of man --></text></li>
+
+            <li number= "422">
             <text>"Lycians, for shame! Where are you running off to?
             Stay sharp! I will myself go face this <man character= "Patroklos">
-                man</man> and find out who is dominating us</text>
+                man</man> and find out who is dominating us</text></li>
+               
+               </scroll>
+            
+
             
             <!--<li number= "810"/>
             <text>That very day Euphorbus had arrived at Troy behind his horses
