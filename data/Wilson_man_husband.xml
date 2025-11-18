@@ -80,7 +80,7 @@
                 
         </character>
         
-        <character name= "Patroklos">
+        <character name= "Patroclus">
             <scroll number= "11"><li number= "605">
                <text>Swift Achilles answered him, "Nobel Patroclus,
             son of great Menoetius, you are the person dearest to 
@@ -95,7 +95,7 @@
 
             <li number= "422">
             <text>"Lycians, for shame! Where are you running off to?
-            Stay sharp! I will myself go face this <man character= "Patroklos">
+                Stay sharp! I will myself go face this <man character= "Patroclus">
                 man</man> and find out who is dominating us</text></li></scroll>
                
                
@@ -108,7 +108,7 @@
             like it is in Butler-\-></text>-->
             
             <scroll number= "17"><li number= "164">
-               <text>This dead <man character= "Patroklos">man
+                    <text>This dead <man character= "Patroclus">man
                </man> was the comrade of the best by far all the Greeks
                    beside the ships, and their battalion is the best
                    as well</text></li>
@@ -136,7 +136,7 @@
                 <text>"I will not forget Patroclus, never, while my
                 body moves, while I am still among those still alive, and 
                 even if the dead forget each other in Hades, even there I will
-                remeber my friend, the <man character= "Patroklos">man</man> I love."
+                remeber my friend, the <man character= "Patroclus">man</man> I love."
                 </text></li></scroll>
         </character>
       
