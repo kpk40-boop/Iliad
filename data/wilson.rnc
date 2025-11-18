@@ -1,0 +1,14 @@
+start = Iliad_Wilson
+
+Iliad_Wilson = element Iliad_Wilson {p}
+    p = element p {character}
+        character = element character {name, scroll}
+            name = attribute name {text}
+            scroll = element scroll {scroll_n,li}
+                scroll_n = attribute number {text}
+                li = element li {li_n, li_text}
+                    li_n = attribute number {text}
+                    li_text = element text {mixed{man*}}
+                        man = element man {man_character, text}
+                            man_character = attribute character {text}
+                    
