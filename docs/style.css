@@ -12,7 +12,6 @@ body {
   color: beige;
   text-align: center;
   line-height: 1.6;
-  font-family: Georgia, serif;
 }
 
 h1 {
@@ -38,12 +37,14 @@ div.NavBar a:hover {
   text-decoration: underline;
 }
 
-body > div h1 {
-  color: #965023;
-  border-bottom: 2px solid #965023;
-  font-size: 2rem;
-  margin-bottom: 1rem;
-  padding: 0;
+.content-box {
+  background-color: rgba(245, 245, 220, 0.85);
+  color: #5e4025;
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 2rem;
+  text-align: left;
+  border-radius: 4px;
 }
 
 ol {
