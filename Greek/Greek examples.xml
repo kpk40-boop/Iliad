@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Iliad_Homer>
+    <u xml:id="1"></u>
+<scroll number= "2"><li number="239-240">
+        <text>ὃς καὶ νῦν Ἀχιλῆα ἕο <strong>μέγʼ ἀμείνονα φῶτα</strong> <!--directly translates to "a man/person greatly superior" so man is actually not used directly in this passage-->
+            ἠτίμησεν· ἑλὼν γὰρ ἔχει γέρας αὐτὸς ἀπούρας.</text>
+</li></scroll>
+<scroll number="16"> <!--not spoken in book two but rather in book 16 when patroclus is trying to get Achilles to fight--> 
+    <u xml:id="2"></u>
+    <li number="34-35">
+        <text>γλαυκὴ δέ σε τίκτε θάλασσα
+            πέτραι τʼ ἠλίβατοι, ὅτι τοι νόος ἐστὶν ἀπηνής.</text> 
+    </li>
+    <u xml:id="9"></u>
+    <li number="239-241">
+        <text>αὐτὸς μὲν γὰρ ἐγὼ μενέω νηῶν ἐν ἀγῶνι,
+            ἀλλʼ <strong>ἕταρον</strong> πέμπω πολέσιν μετὰ Μυρμιδόνεσσι <!--once again the word for companion is used here rather than man-->
+            μάρνασθαι·</text>
+    </li>
+    <u xml:id="10"></u>
+    <li number= "422-424">
+        <text>
+            αἰδὼς ὦ Λύκιοι· πόσε φεύγετε; νῦν θοοὶ ἔστε.
+            ἀντήσω γὰρ ἐγὼ τοῦδʼ <strong>ἀνέρος</strong>, ὄφρα δαείω <!--ανηρ is being used here, but most likely as "man" due to the fact that it is being said by an enemy "I will go see who this man is"-->
+            ὅς τις ὅδε κρατέει
+        </text>
+    </li>
+</scroll>
+<scroll number= "11">
+    <u xml:id="3"></u>
+    <li number="786-789">
+        <text>τέκνον ἐμὸν γενεῇ μὲν ὑπέρτερός ἐστιν Ἀχιλλεύς, 
+            πρεσβύτερος δὲ σύ ἐσσι· βίῃ δʼ ὅ γε πολλὸν ἀμείνων.
+            ἀλλʼ εὖ οἱ φάσθαι πυκινὸν ἔπος ἠδʼ ὑποθέσθαι
+            καί οἱ σημαίνειν· ὃ δὲ πείσεται εἰς ἀγαθόν περ.</text> <!--this is in book 11 in Homer but appears as a flashback (probably why it is in book 2 in Butler and Wilson) about what Patroclus' father told him about Achilles, but is retold by Nestor--> 
+    </li>
+    <u xml:id="8"></u>
+    <li number="602">
+        <text>αἶψα δʼ <strong>ἑταῖρον</strong> ἑὸν Πατροκλῆα προσέειπε</text> <!--here is the only time a word like "man" is used and it is εταιρος meaning "companion"/"brother in arms"-->
+    </li>
+    <li number="607-608">
+        <text>τὸν δʼ ἀπαμειβόμενος προσέφη πόδας ὠκὺς Ἀχιλλεύς·
+            δῖε Μενοιτιάδη τῷ ἐμῷ κεχαρισμένε θυμῷ</text> <!--there is no word for "man" used here. Achilles is saying (roughly) "son of menoetius, dear to my heart"-->
+    </li>
+</scroll>
+<scroll number="2">
+    <u xml:id="4"></u>
+    <li number="768-769">
+        <text><strong>ἀνδρῶν</strong> αὖ μέγʼ ἄριστος ἔην Τελαμώνιος Αἴας ὄφρʼ <!--once again the direct translation here is "male" rather than "man/husband"-->
+            Ἀχιλεὺς μήνιεν·</text> <!--direct translation might be saying that Ajax was the best of all the Greeks but i could be wrong-->
+    </li></scroll>
+<scroll number="6">
+    <u xml:id="5"></u>
+    <li number="98-100">
+        <text>ὃν δὴ ἐγὼ κάρτιστον Ἀχαιῶν φημι γενέσθαι.
+            οὐδʼ Ἀχιλῆά ποθʼ ὧδέ γʼ ἐδείδιμεν ὄρχαμον <strong>ἀνδρῶν</strong>, <!--ανδρων can mean "man" but it directly tranlsates to "male"-->
+            ὅν πέρ φασι θεᾶς ἐξέμμεναι·
+        </text>
+    </li>
+</scroll>
+<scroll number="18">
+    <u xml:id="6"></u>
+    <li number="306-309">
+        <text>οὔ μιν ἔγωγε
+            φεύξομαι ἐκ πολέμοιο δυσηχέος, ἀλλὰ μάλʼ ἄντην
+            στήσομαι, ἤ κε φέρῃσι μέγα κράτος, ἦ κε φεροίμην.
+            ξυνὸς Ἐνυάλιος, καί τε κτανέοντα κατέκτα.</text> <!--man like in Wilson does not show up here. it uses "he" to refer to Achilles--> 
+    </li>
+    <u xml:id="7"></u>
+    <li number= "318-322">
+        <text>
+            πυκνὰ μάλα στενάχων ὥς τε λὶς ἠϋγένειος,
+            ᾧ ῥά θʼ ὑπὸ σκύμνους ἐλαφηβόλος ἁρπάσῃ <strong>ἀνὴρ</strong> <!--here we see ανηρ used for the first time and it is in Achilles' lament over the death of patroclus. it is during his time where he decides that he will kill hector no matter what. the connotations here are very different than when ανδρος is used. quite literally these first two lines are comparing Achilles to a lion that has lost it's mate due to a hunter... that's gay bro--> 
+            ὕλης ἐκ πυκινῆς· ὃ δέ τʼ ἄχνυται ὕστερος ἐλθών,
+            πολλὰ δέ τʼ ἄγκεʼ ἐπῆλθε μετʼ ἀνέρος ἴχνιʼ ἐρευνῶν
+            εἴ ποθεν ἐξεύροι· μάλα γὰρ δριμὺς χόλος αἱρεῖ·
+        </text>
+    </li>
+</scroll>
+<scroll number="17">
+    <u xml:id="12"></u>
+    <li number="268-271">
+        <text>
+            ἀμφὶ δʼ ἄρά σφι
+            λαμπρῇσιν κορύθεσσι Κρονίων ἠέρα πολλὴν
+            χεῦʼ, ἐπεὶ οὐδὲ Μενοιτιάδην ἔχθαιρε πάρος γε,
+            ὄφρα ζωὸς ἐὼν <strong>θεράπων</strong> ἦν Αἰακίδαο· <!--here the word θαραπων is used which is usually meant to denote someone who is of lower rank, an attendant, or event a servant/slave-->
+        </text>
+    </li>
+     
+</scroll>
+<scroll number="22">
+    <u xml:id="13"></u>
+    <li number="387-390">
+        <text>
+            Πάτροκλος· τοῦ δʼ οὐκ ἐπιλήσομαι, ὄφρʼ ἂν ἔγωγε
+            ζωοῖσιν μετέω καί μοι φίλα γούνατʼ ὀρώρῃ·
+            εἰ δὲ θανόντων περ καταλήθοντʼ εἰν Ἀΐδαο
+            αὐτὰρ ἐγὼ καὶ κεῖθι φίλου μεμνήσομʼ <strong>ἑταίρου</strong>. <!--once again companion is used rather than man here, though he is saying that he loved him-->
+        </text>
+    </li>
+</scroll>
+<scroll number="3">
+    <u xml:id="14"></u>
+    <li number="139-140">
+        <text>ὣς εἰποῦσα θεὰ γλυκὺν ἵμερον ἔμβαλε θυμῷ
+            <strong>ἀνδρός</strong> τε προτέρου καὶ ἄστεος ἠδὲ τοκήων·</text> <!--ανδρος appears to mean her husband/man-->
+    </li>
+    <u xml:id="15"></u>
+    <li number="162-170">
+        <text>δεῦρο πάροιθʼ ἐλθοῦσα φίλον τέκος ἵζευ ἐμεῖο,
+            ὄφρα ἴδῃ πρότερόν τε πόσιν πηούς τε φίλους τε· <!--husband is actually not used in this sentence! it's actually just "beloved"-->
+            οὔ τί μοι αἰτίη ἐσσί, θεοί νύ μοι αἴτιοί εἰσιν
+            οἵ μοι ἐφώρμησαν πόλεμον πολύδακρυν Ἀχαιῶν·
+            ὥς μοι καὶ τόνδʼ <strong>ἄνδρα</strong> πελώριον ἐξονομήνῃς
+            ὅς τις ὅδʼ ἐστὶν Ἀχαιὸς <strong>ἀνὴρ</strong> ἠΰς τε μέγας τε.
+            ἤτοι μὲν κεφαλῇ καὶ μείζονες ἄλλοι ἔασι,
+            καλὸν δʼ οὕτω ἐγὼν οὔ πω ἴδον ὀφθαλμοῖσιν,
+            οὐδʼ οὕτω γεραρόν· βασιλῆϊ γὰρ <strong>ἀνδρὶ</strong> ἔοικε.</text> <!--i wanted to include a lot of this passage, not just what cheyanne has for wilson, because ανδρος "male"/"man" and ανηρ "husband"/"man" is also used, but they are interchangable here showing the ambiguity of the word. -->
+    </li>
+    <li number="428-430">
+        <text> ὡς ὤφελες αὐτόθʼ ὀλέσθαι
+            <strong>ἀνδρὶ</strong> δαμεὶς κρατερῷ, ὃς ἐμὸς πρότερος πόσις ἦεν. <!--here ανδρος is used instead of man-->
+            ἦ μὲν δὴ πρίν γʼ εὔχεʼ ἀρηϊφίλου Μενελάου</text>
+    </li>
+</scroll>
+<!--was not able to find the greek for example 11-->
+</Iliad_Homer>
