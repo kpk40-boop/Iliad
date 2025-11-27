@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="wilson.rnc" type="application/relax-ng-compact-syntax"?>
 <Iliad_Wilson>
     <p>
         <character name= "Achilles">
@@ -9,7 +10,7 @@
              to give orders to everyone."</text></li></scroll>-->    
           
             <u xml:id="1"></u> 
-          <scroll number= "2"><li mumber= "239">
+          <scroll number= "2"><li number= "239">
               <text>Just now he brought dishonor to Achilles who is a better
                   <man character= "Achilles">man</man> than him by far.
               </text></li>   
