@@ -1,15 +1,18 @@
 start = Iliad_Wilson
 
 Iliad_Wilson = element Iliad_Wilson {p}
-    p = element p {character}
-        character = element character {name, u, scroll}
+    p = element p {character*}
+        character = element character {name, scroll*}
             name = attribute name {text}
-            u = element u {attribute xml:id { xsd:ID }, empty}
-            scroll = element scroll {scroll_n,li}
+            scroll = element scroll {scroll_n, u*}
                 scroll_n = attribute number {text}
-                li = element li {li_n, li_text}
-                    li_n = attribute number {text}
-                    li_text = element text {mixed{man*}}
-                        man = element man {man_character, text}
-                            man_character = attribute character {text}
+                u = element u {id, li}
+                    id = attribute id {text}
+                    li = element li {li_n, li_text}
+                        li_n = attribute number {text}
+                        li_text = element text {mixed{man* | husband*}*}
+                            husband = element husband {husband_character, text}
+                                husband_character = attribute character {text}
+                            man = element man {man_character, text}
+                                man_character = attribute character {text}
                     
