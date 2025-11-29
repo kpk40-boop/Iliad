@@ -2,143 +2,143 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" width="1350" height="300" viewBox="0, -300, 1350, 300">
     <desc> Bar Graph </desc>
-    <line x1= "0" y1= "0" x2= "50" y2= "0" stroke="black" stroke-width="2"></line>
-    <line x1= "0" y1="-300" x2="0" y2="0" stroke="black" stroke-width="2"></line>
+    <line x1= "0" y1= "0" x2= "1350" y2= "0" stroke="beige" stroke-width="2"></line>
+    <line x1= "0" y1="-300" x2="0" y2="0" stroke="beige" stroke-width="2"></line>
     
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="277" x="30" y="-277" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="277" x="30" y="-277" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="10" x="60" y="-10" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="10" x="60" y="-10" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-<!--    <rect width="25" height="1" x="90" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>-->
+<!--    <rect width="25" height="1" x="90" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>-->
     
-    <rect width="25" height="2" x="120" y="-2" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="2" x="120" y="-2" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="2" x="150" y="-2" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="2" x="150" y="-2" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="31" x="180" y="-31" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="31" x="180" y="-31" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="2" x="210" y="-2" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="2" x="210" y="-2" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="2" x="240" y="-2" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="2" x="240" y="-2" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-<!--    <rect width="25" height="1" x="270" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>-->
+<!--    <rect width="25" height="1" x="270" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>-->
     
-    <rect width="25" height="3" x="300" y="-3" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="3" x="300" y="-3" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-<!--    <rect width="25" height="1" x="330" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>-->
+<!--    <rect width="25" height="1" x="330" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>-->
     
-<!--    <rect width="25" height="1" x="360" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>-->
+<!--    <rect width="25" height="1" x="360" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>-->
     
-<!--    <rect width="25" height="1" x="390" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>-->
+<!--    <rect width="25" height="1" x="390" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>-->
     
-    <rect width="25" height="2" x="420" y="-2" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="2" x="420" y="-2" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-<!--    <rect width="25" height="1" x="450" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>-->
+<!--    <rect width="25" height="1" x="450" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>-->
     
-    <rect width="25" height="4" x="480" y="-4" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="4" x="480" y="-4" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-<!--    <rect width="25" height="1" x="510" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>-->
+<!--    <rect width="25" height="1" x="510" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>-->
     
-<!--    <rect width="25" height="1" x="540" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+<!--    <rect width="25" height="1" x="540" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="1" x="570" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="1" x="570" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="1" x="600" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="1" x="600" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="1" x="630" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="1" x="630" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="1" x="660" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="1" x="660" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="1" x="690" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="1" x="690" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="1" x="720" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>-->
+    <rect width="25" height="1" x="720" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>-->
     
-    <rect width="25" height="4" x="750" y="-4" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="4" x="750" y="-4" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-<!--    <rect width="25" height="1" x="780" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>-->
+<!--    <rect width="25" height="1" x="780" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>-->
     
-<!--    <rect width="25" height="1" x="810" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>-->
+<!--    <rect width="25" height="1" x="810" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>-->
     
-    <rect width="25" height="3" x="840" y="-3" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="3" x="840" y="-3" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-<!--    <rect width="25" height="1" x="870" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>-->
+<!--    <rect width="25" height="1" x="870" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>-->
     
-    <rect width="25" height="2" x="900" y="-2" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="2" x="900" y="-2" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="6" x="930" y="-6" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="6" x="930" y="-6" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="2" x="960" y="-2" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="2" x="960" y="-2" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="2" x="990" y="-2" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="2" x="990" y="-2" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-<!--    <rect width="25" height="1" x="1020" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+<!--    <rect width="25" height="1" x="1020" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="1" x="1050" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>-->
+    <rect width="25" height="1" x="1050" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>-->
     
-    <rect width="25" height="2" x="1080" y="-2" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="2" x="1080" y="-2" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-<!--    <rect width="25" height="1" x="1110" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+<!--    <rect width="25" height="1" x="1110" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="1" x="1140" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="1" x="1140" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="1" x="1170" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="1" x="1170" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="1" x="1200" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="1" x="1200" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="1" x="1230" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="1" x="1230" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="1" x="1260" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="1" x="1260" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="1" x="1290" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>
+    <rect width="25" height="1" x="1290" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>
     
-    <rect width="25" height="1" x="1320" y="-1" fill="black"></rect>
-    <rect width="25" height="33" x="0" y="-33" fill="black"></rect>-->
+    <rect width="25" height="1" x="1320" y="-1" fill="beige"></rect>
+    <rect width="25" height="33" x="0" y="-33" fill="beige"></rect>-->
     
     
     
