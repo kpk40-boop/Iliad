@@ -7,8 +7,8 @@
 body {
   background-image: url("iliad_image.jpg");
   background-size: cover;
-  background-attachment: local;
-  background-repeat: repeat;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
   color: beige;
   text-align: center;
   line-height: 1.6;
