@@ -1,72 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="examples_schema.rnc" type="application/relax-ng-compact-syntax"?>
+
 <Iliad_Homer>
-    <u xml:id="1"></u>
-<scroll number= "2"><li number="239-240">
+    
+    <scroll number= "2">
+        <u id="1">
+        <li number="239-240">
         <text>ὃς καὶ νῦν Ἀχιλῆα ἕο <strong>μέγʼ ἀμείνονα φῶτα</strong> <!--directly translates to "a man/person greatly superior" so man is actually not used directly in this passage-->
-            ἠτίμησεν· ἑλὼν γὰρ ἔχει γέρας αὐτὸς ἀπούρας.</text>
-</li></scroll>
-<scroll number="16"> <!--not spoken in book two but rather in book 16 when patroclus is trying to get Achilles to fight--> 
-    <u xml:id="2"></u>
+            ἠτίμησεν· ἑλὼν γὰρ ἔχει γέρας αὐτὸς ἀπούρας.</text></li></u></scroll>
+    
+    <scroll number="16"> <!--not spoken in book two but rather in book 16 when patroclus is trying to get Achilles to fight--> 
+    <u id="2">
     <li number="34-35">
         <text>γλαυκὴ δέ σε τίκτε θάλασσα
             πέτραι τʼ ἠλίβατοι, ὅτι τοι νόος ἐστὶν ἀπηνής.</text> 
-    </li>
-    <u xml:id="9"></u>
+    </li></u>
+        
+    <u id="9">
     <li number="239-241">
         <text>αὐτὸς μὲν γὰρ ἐγὼ μενέω νηῶν ἐν ἀγῶνι,
             ἀλλʼ <strong>ἕταρον</strong> πέμπω πολέσιν μετὰ Μυρμιδόνεσσι <!--once again the word for companion is used here rather than man-->
-            μάρνασθαι·</text>
-    </li>
-    <u xml:id="10"></u>
+            μάρνασθαι·</text></li>
+    </u>
+    <u id="10">
     <li number= "422-424">
         <text>
             αἰδὼς ὦ Λύκιοι· πόσε φεύγετε; νῦν θοοὶ ἔστε.
             ἀντήσω γὰρ ἐγὼ τοῦδʼ <strong>ἀνέρος</strong>, ὄφρα δαείω <!--ανηρ is being used here, but most likely as "man" due to the fact that it is being said by an enemy "I will go see who this man is"-->
             ὅς τις ὅδε κρατέει
-        </text>
-    </li>
+        </text></li>
+    </u>
 </scroll>
+    
 <scroll number= "11">
-    <u xml:id="3"></u>
+    <u id="3">
     <li number="786-789">
         <text>τέκνον ἐμὸν γενεῇ μὲν ὑπέρτερός ἐστιν Ἀχιλλεύς, 
             πρεσβύτερος δὲ σύ ἐσσι· βίῃ δʼ ὅ γε πολλὸν ἀμείνων.
             ἀλλʼ εὖ οἱ φάσθαι πυκινὸν ἔπος ἠδʼ ὑποθέσθαι
-            καί οἱ σημαίνειν· ὃ δὲ πείσεται εἰς ἀγαθόν περ.</text> <!--this is in book 11 in Homer but appears as a flashback (probably why it is in book 2 in Butler and Wilson) about what Patroclus' father told him about Achilles, but is retold by Nestor--> 
-    </li>
-    <u xml:id="8"></u>
+            καί οἱ σημαίνειν· ὃ δὲ πείσεται εἰς ἀγαθόν περ.</text> <!--this is in book 11 in Homer but appears as a flashback (probably why it is in book 2 in Butler and Wilson) about what Patroclus' father told him about Achilles, but is retold by Nestor--> </li>
+    </u>
+    
+    <u id="8">
     <li number="602">
         <text>αἶψα δʼ <strong>ἑταῖρον</strong> ἑὸν Πατροκλῆα προσέειπε</text> <!--here is the only time a word like "man" is used and it is εταιρος meaning "companion"/"brother in arms"-->
     </li>
     <li number="607-608">
         <text>τὸν δʼ ἀπαμειβόμενος προσέφη πόδας ὠκὺς Ἀχιλλεύς·
             δῖε Μενοιτιάδη τῷ ἐμῷ κεχαρισμένε θυμῷ</text> <!--there is no word for "man" used here. Achilles is saying (roughly) "son of menoetius, dear to my heart"-->
-    </li>
+    </li></u>
 </scroll>
 <scroll number="2">
-    <u xml:id="4"></u>
+    <u id="4">
     <li number="768-769">
         <text><strong>ἀνδρῶν</strong> αὖ μέγʼ ἄριστος ἔην Τελαμώνιος Αἴας ὄφρʼ <!--once again the direct translation here is "male" rather than "man/husband"-->
             Ἀχιλεὺς μήνιεν·</text> <!--direct translation might be saying that Ajax was the best of all the Greeks but i could be wrong-->
-    </li></scroll>
+    </li></u></scroll>
 <scroll number="6">
-    <u xml:id="5"></u>
+    <u id="5">
     <li number="98-100">
         <text>ὃν δὴ ἐγὼ κάρτιστον Ἀχαιῶν φημι γενέσθαι.
             οὐδʼ Ἀχιλῆά ποθʼ ὧδέ γʼ ἐδείδιμεν ὄρχαμον <strong>ἀνδρῶν</strong>, <!--ανδρων can mean "man" but it directly tranlsates to "male"-->
             ὅν πέρ φασι θεᾶς ἐξέμμεναι·
         </text>
-    </li>
+    </li></u>
 </scroll>
 <scroll number="18">
-    <u xml:id="6"></u>
+    <u id="6">
     <li number="306-309">
         <text>οὔ μιν ἔγωγε
             φεύξομαι ἐκ πολέμοιο δυσηχέος, ἀλλὰ μάλʼ ἄντην
             στήσομαι, ἤ κε φέρῃσι μέγα κράτος, ἦ κε φεροίμην.
             ξυνὸς Ἐνυάλιος, καί τε κτανέοντα κατέκτα.</text> <!--man like in Wilson does not show up here. it uses "he" to refer to Achilles--> 
-    </li>
-    <u xml:id="7"></u>
+    </li></u>
+    <u id="7">
     <li number= "318-322">
         <text>
             πυκνὰ μάλα στενάχων ὥς τε λὶς ἠϋγένειος,
@@ -75,10 +82,10 @@
             πολλὰ δέ τʼ ἄγκεʼ ἐπῆλθε μετʼ ἀνέρος ἴχνιʼ ἐρευνῶν
             εἴ ποθεν ἐξεύροι· μάλα γὰρ δριμὺς χόλος αἱρεῖ·
         </text>
-    </li>
+    </li></u>
 </scroll>
 <scroll number="17">
-    <u xml:id="12"></u>
+    <u id="12">
     <li number="268-271">
         <text>
             ἀμφὶ δʼ ἄρά σφι
@@ -86,11 +93,11 @@
             χεῦʼ, ἐπεὶ οὐδὲ Μενοιτιάδην ἔχθαιρε πάρος γε,
             ὄφρα ζωὸς ἐὼν <strong>θεράπων</strong> ἦν Αἰακίδαο· <!--here the word θαραπων is used which is usually meant to denote someone who is of lower rank, an attendant, or event a servant/slave-->
         </text>
-    </li>
+    </li></u>
      
 </scroll>
 <scroll number="22">
-    <u xml:id="13"></u>
+    <u id="13">
     <li number="387-390">
         <text>
             Πάτροκλος· τοῦ δʼ οὐκ ἐπιλήσομαι, ὄφρʼ ἂν ἔγωγε
@@ -98,15 +105,15 @@
             εἰ δὲ θανόντων περ καταλήθοντʼ εἰν Ἀΐδαο
             αὐτὰρ ἐγὼ καὶ κεῖθι φίλου μεμνήσομʼ <strong>ἑταίρου</strong>. <!--once again companion is used rather than man here, though he is saying that he loved him-->
         </text>
-    </li>
+    </li></u>
 </scroll>
 <scroll number="3">
-    <u xml:id="14"></u>
+    <u id="14">
     <li number="139-140">
         <text>ὣς εἰποῦσα θεὰ γλυκὺν ἵμερον ἔμβαλε θυμῷ
             <strong>ἀνδρός</strong> τε προτέρου καὶ ἄστεος ἠδὲ τοκήων·</text> <!--ανδρος appears to mean her husband/man-->
-    </li>
-    <u xml:id="15"></u>
+    </li></u>
+    <u id="15">
     <li number="162-170">
         <text>δεῦρο πάροιθʼ ἐλθοῦσα φίλον τέκος ἵζευ ἐμεῖο,
             ὄφρα ἴδῃ πρότερόν τε πόσιν πηούς τε φίλους τε· <!--husband is actually not used in this sentence! it's actually just "beloved"-->
@@ -122,7 +129,7 @@
         <text> ὡς ὤφελες αὐτόθʼ ὀλέσθαι
             <strong>ἀνδρὶ</strong> δαμεὶς κρατερῷ, ὃς ἐμὸς πρότερος πόσις ἦεν. <!--here ανδρος is used instead of man-->
             ἦ μὲν δὴ πρίν γʼ εὔχεʼ ἀρηϊφίλου Μενελάου</text>
-    </li>
+    </li></u>
 </scroll>
 <!--was not able to find the greek for example 11-->
 </Iliad_Homer>

@@ -1,0 +1,13 @@
+start = Iliad_Homer
+
+Iliad_Homer = element Iliad_Homer {scroll*}
+            scroll = element scroll {scroll_n, u*}
+                scroll_n = attribute number {text}
+                u = element u {id, li*}
+                    id = attribute id {text}
+                    li = element li {li_n, li_text}
+                        li_n = attribute number {text}
+                        li_text = element text {mixed{strong*}}
+                            strong = element strong {text}
+
+                    
