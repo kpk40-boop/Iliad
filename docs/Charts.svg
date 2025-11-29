@@ -4,6 +4,7 @@
     <desc> Bar Graph </desc>
     <line x1= "400" y1= "180" x2= "90" y2= "180" stroke="black" stroke-width="2"></line>
     <line x1= "90" y1="-400" x2="90" y2="180" stroke="black" stroke-width="2"></line>
+    <rect width="25" height="33" x="90" y="180" fill="black"></rect>
    <text>Agamemnon</text>
     <text>generic</text>
     <text>Achilles</text> 
