@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("iliad_image.jpg");
+  background-size: cover;
+  background-attachment: local;
+  background-repeat: repeat;
+  color: beige;
+  text-align: center;
+  line-height: 1.6;
+}
+
+h1 {
+  padding: 40px;
+  font-size: 50px;
+  color: beige;
+  margin-bottom: 2rem;
+}
+
+div.NavBar {
+    border: 0;
+    margin: 0;
+    background-color: beige;
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+      color: #8B6B4A;
+  text-decoration: none;
+  transition: background 0.3s;
+  }
+  
+section {
+  background-color: rgba(245, 245, 220, 0.85); 
+  color: #8B6B4A; 
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 2rem;
+  text-align: left;
+}
+
+h2 {
+  color: #965023;
+  border-bottom: 2px solid #965023;
+  margin-bottom: 1rem;
+  text-align: center;
+  font-size: 1.8rem;
+}
+
+section p {
+  font-size: 1.2rem;
+  color: #5e4025;
+}
+
+em {
+  color: maroon;
+  font-weight: bold;
+  font-family: cursive;
+}
