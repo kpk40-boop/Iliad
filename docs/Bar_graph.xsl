@@ -12,7 +12,16 @@
     
     <xsl:template match= "/">
         <svg viewbox= "0 -300 50 300"></svg>
-            <xsl:apply-templates select= "//man[@character]"/>
+            <xsl:apply-templates select= "//man"/>
+        
+   
         
     </xsl:template>
+    
+    <xsl:template match= "man">
+        
+        
+    </xsl:template>
+    
+    
 </xsl:stylesheet>
