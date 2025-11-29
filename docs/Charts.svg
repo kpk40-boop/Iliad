@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc> Pie Chart 45 </desc>
+   <text>Agamemnon</text>
+    <text>generic</text>
+    <text>Achilles</text> 
+    <text>Hephaistos</text>
+    <text>Odysseus</text>
+    <text>Thersites</text>
+    <text>Nestor</text>
+    <text>Tlepolemos</text>
+    <text>Nireus</text>
+    <text>Polites</text>
+    <text>Menelaos</text>
+    <text>Dares</text>
+    <text>Phereklos</text>
+    <text>Pandarus</text>
+    <text>Turnus</text>
+    <text>Tydeus</text>
+    <text>Diomedes</text>
+    <text>Herkules</text>
+    <text>Diocles</text>
+    <text>Selagus</text>
+    <text>Akamas</text>
+    <text>Axylos</text>
+    <text>Lycurgus</text>
+    <text>Bellerophon</text>
+    <text>Ereuthalion</text>
+    <text>Ajax</text>
+    <text>Teucer</text>
+    <text>Ares</text>
+    <text>Hektor</text>
+    <text>Ides</text>
+    <text>Dolon</text>
+    <text>Patroklos</text>
+    <text>Machaon</text>
+    <text>Moulios</text>
+    <text>Sarpedon</text>
+    <text>Imbrios</text>
+    <text>Euchenor</text>
+    <text>Askalaphos</text>
+    <text>Automedon</text>
+    <text>Apisaon</text>
+    <text>Pylaios</text>
+    <text>Demoleon</text>
+    <text>Eumelos</text>
+    <text>Priam</text>
+    <text>Polyktor</text>
+    
+    
+    <svg width="400" height="400" viewBox="0 0 400 400">
+        <g transform="translate(200,200)">
+            
+            <!-- JOHN — 50% (180°) -->
+            <path d="
+                M 0 0
+                L 200 0
+                A 200 200 0 0 1 0 -200
+                Z"
+                fill="#ff6666"/>
+            <text x="120" y="-20" font-size="20" text-anchor="middle">John</text>
+            
+            <!-- SARAH — 33.33% (120°) -->
+            <path d="
+                M 0 0
+                L 0 -200
+                A 200 200 0 0 1 -173.2 -100
+                Z"
+                fill="#66b3ff"/>
+            <text x="-80" y="-80" font-size="20" text-anchor="middle">Sarah</text>
+            
+            <!-- MIKE — 16.67% (60°) -->
+            <path d="
+                M 0 0
+                L -173.2 -100
+                A 200 200 0 0 1 200 0
+                Z"
+                fill="#99ff99"/>
+            <text x="40" y="100" font-size="20" text-anchor="middle">Mike</text>
+            
+        </g>
+    </svg>
+    
+</svg>
