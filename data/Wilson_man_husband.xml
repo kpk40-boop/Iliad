@@ -17,7 +17,7 @@
                 - The attribute "b-word" means Butler Word. It is supposed to be the word that this quote is marked up to concern in Butler. It can be one of four values:
                     - Values are "man," "husband," comrade," "none,"
                 - The attribute "w-word" means Wilson word. It is supposed to be the word that this quote is marked up to concern in Wilson. It can be one of five values:
-                    - Values are "man," "husband," comrade," "none,"
+                    - Values are "man," "husband," comrade," "person," "none,"
                 - The attribute "char" means character. Who is the word applying to?
                     - Values are "Achilles," "Patroklos," and "Menelaus"
                         - I also regexed every "Patroclus" to read "Patroklos"
