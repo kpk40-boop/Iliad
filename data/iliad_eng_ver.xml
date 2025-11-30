@@ -2235,7 +2235,7 @@
 
                   <p>
                      <milestone n="139" unit="line"/>Thus spoke the goddess, and Helen's heart
-                     yearned after her former <u id="14"><husband character="Menelaus">husband</husband></u>, her city, and her parents. She threw a white
+                     yearned after her former <u id="2"><husband character="Menelaus">husband</husband></u>, her city, and her parents. She threw a white
                      mantle over her head, and hurried from her room, weeping as she went, not
                      alone, but attended by two of her handmaids, Aithra, daughter of Pittheus, and
                      Klymene. And straightway they were at the Scaean gates. </p>
@@ -2259,7 +2259,7 @@
                <div type="textpart" n="161" subtype="card">
                   <p>
                      <milestone n="161" unit="line"/>But Priam bade her draw nigh. "My child," said
-                     he, "take your seat in front of me that you may see your former <u id="15"><husband character="Menelaus">husband</husband></u>, your
+                     he, "take your seat in front of me that you may see your former <u id="3"><husband character="Menelaus">husband</husband></u>, your
                      kinsmen and your friends. I lay no responsibility [<term xml:lang="grc"
                         >aitia</term>] upon you, it is the gods, not you who are responsible [<term
                         xml:lang="grc">aitioi</term>]. It is they that have brought about this
@@ -2512,7 +2512,7 @@
 
                   <p>
                      <milestone n="428" unit="line"/>"So you are come from the fight," said she;
-                     "would that you had fallen rather by the hand of that brave <u id="16"><man character="Menelaus">man</man></u> who was my
+                     "would that you had fallen rather by the hand of that brave <u id="4"><man character="Menelaus">man</man></u> who was my
                         <husband character="Menelaus">husband</husband>. You used to brag that you were a better <man character="Menelaus">man</man> with might [<term
                         xml:lang="grc">biê</term>] of hands and spear than Menelaos. Go, then, and
                      challenge him again - but I would advise you not to do so, for if you are
@@ -7269,7 +7269,7 @@
                      came out looking like Ares himself - here indeed was the beginning of the ill
                      that presently befell him. "Why," said he, "Achilles do you call me? what do
                      you what do you want with me?" And Achilles answered, "Noble son of Menoitios,
-                     <u id="8"><man character="Patroklos">man</man></u>after my own heart, I take it that I shall now have the Achaeans praying at
+                     <u id="5"><man character="Patroklos">man</man></u>after my own heart, I take it that I shall now have the Achaeans praying at
                      my knees, for they are in great straits; go, Patroklos, and ask Nestor who is
                      that he is bearing away wounded from the field; from his back I should say it
                      was Machaon son of Asklepios, but I could not see his face for the horses went
@@ -7312,7 +7312,7 @@
                      you cannot persuade me to come in; he that sent me is not one to be trifled
                      with, and he bade me ask who the wounded <man character="Machaon">man</man> was whom you were bearing away
                      from the field. I can now see for myself that he is Machaon shepherd of his
-                     people. I must go back and tell Achilles. You, sir, know what a terrible <u id="2"><man character="Achilles">man</man></u> he
+                     people. I must go back and tell Achilles. You, sir, know what a terrible <u id="6"><man character="Achilles">man</man></u> he
                      is, and how ready to blame even where no blame should lie." </p>
 
                   <p>
@@ -7439,7 +7439,7 @@
                      son Achilles fight ever among the foremost and outvie his peers, while
                      Menoitios the son of Aktor spoke thus to you: ‘My son,’ said he, ‘Achilles is
                      of nobler birth than you are, but you are older than he, though he is far the
-                     better <u id="3"><man character="Achilles">man</man></u> of the two. Counsel him wisely, guide him in the right way, and he
+                     better <u id="7"><man character="Achilles">man</man></u> of the two. Counsel him wisely, guide him in the right way, and he
                      will follow you to his own profit.’ Thus did your father charge you, but you
                      have forgotten; nevertheless, even now, say all this to Achilles if he will
                      listen to you. Who knows but with the help of a <term xml:lang="grc"
@@ -10418,12 +10418,12 @@
                      Argeas. </p>
 
                   <p>
-                     <milestone n="419" unit="line"/>Now when Sarpedon saw his comrades, men who
+                     <milestone n="419" unit="line"/><u id="10">Now when Sarpedon saw his comrades, men who
                      wore unbelted tunics, being overcome by Patroklos son of Menoitios, he rebuked
-                     the Lycians saying. "Shame [<term xml:lang="grc">aidôs</term>] on you, where
-                     are you fleeing to? Show your mettle; I will myself meet this <u id="10"><man character="Patroklos">man</man></u> in fight and
+                     the Lycians saying. "Shame on you, where
+                     are you fleeing to? Show your mettle; I will myself meet this <man character="Patroklos">man</man> in fight and
                      learn who it is that is so masterful; he has done us much hurt, and has
-                     stretched many a brave <man character="generic">man</man> upon the ground." </p>
+                     stretched many a brave <man character="generic">man</man> upon the ground."</u> </p>
 
                   <p>
                      <milestone n="426" unit="line"/>He sprang from his chariot as he spoke, and
@@ -10707,7 +10707,7 @@
                      coming on like a <term xml:lang="grc">daimôn</term> for yet a fourth time,
                      Apollo shouted to him with an awful voice and said, "Draw back, noble
                      Patroklos, it is not your lot to sack the city of the Trojan chieftains, nor
-                     yet will it be that of Achilles who is a far better<u id="5"><man character="Achilles">man</man></u> than you are." On
+                     yet will it be that of Achilles who is a far better<u id="11"><man character="Achilles">man</man></u> than you are." On
                      hearing this, Patroklos withdrew to some distance and avoided the anger [<term
                         xml:lang="grc">mênis</term>] of Apollo. </p>
 
@@ -10999,12 +10999,11 @@
 
                   <p>
                      <milestone n="157" unit="line"/>we should soon bear off Patroklos into
-                     <placeName key="tgn,7002329">Ilion</placeName>. Could we get this dead <u id="11"><man character="Patroklos">man</man></u>
+                     <placeName key="tgn,7002329">Ilion</placeName>. Could we get this dead <man character="Patroklos">man</man>
                      away and bring him into the city of Priam, the Argives would readily give up
-                     the armor of Sarpedon, and we should get his body to boot. For he whose squire
-                        [<term xml:lang="grc">therapôn</term>] has been now killed is the foremost
-                     <man character="generic">man</man> at the ships of the Achaeans - he and his close-fighting followers [<term
-                        xml:lang="grc">therapontes</term>]. Nevertheless you dared not make a stand
+                     the armor of Sarpedon, and we should get his body to boot. <u id="12">
+                     For he whose squire has been now killed is the foremost
+                     <man character="Patroklos">man</man> at the ships of the Achaeans - he and his close-fighting followers.</u> Nevertheless you dared not make a stand
                      against Ajax, nor face him, eye to eye, with battle all round you, for he is a
                      braver <man character="generic">man</man> than you are." </p>
 
@@ -11115,7 +11114,7 @@
 
                   <p>
                      <milestone n="274" unit="line"/>At first the Trojans drove the Achaeans back,
-                     and they withdrew from the dead <u id="12"><man character="Patroklos">man</man></u> daunted. The Trojans did not succeed in
+                     and they withdrew from the dead <u id="13"><man character="Patroklos">man</man></u> daunted. The Trojans did not succeed in
                      killing any one, nevertheless they drew the body away. But the Achaeans did not
                      lose it long, for Ajax, foremost of all the Danaans after the son of Peleus
                      alike in stature and prowess,</p>
@@ -11824,7 +11823,7 @@
                   <p>
                      <milestone n="254" unit="line"/>"Look to it well, my friends; I would urge you
                      to go back now to your city and not wait here by the ships till morning, for we
-                     are far from our walls. So long as this <u id="6"><man character="generic">man</man></u> has anger [<term xml:lang="grc"
+                     are far from our walls. So long as this <u id="14"><man character="generic">man</man></u> has anger [<term xml:lang="grc"
                         >mênis</term>] against Agamemnon, the Achaeans were easier to deal with, and
                      I would have gladly camped by the ships in the hope of taking them; but now I
                      go in great fear of the fleet son of Peleus; he is so daring that he will never
@@ -12141,7 +12140,7 @@
                      one another, and many people was gathered joyously about the place of dancing
                         [<term xml:lang="grc">khoros</term>]. There was a bard also to sing to them
                      and play his lyre, while two tumblers went about performing in the midst of
-                     them when the <u id="7"><man character="Achilles">man</man></u> struck up with his tune. </p>
+                     them when the <u id="15"><man character="Achilles">man</man></u> struck up with his tune. </p>
 
                   <p>
                      <milestone n="607" unit="line"/>All round the outermost rim of the shield he
@@ -14013,7 +14012,7 @@
                      desert their city now that Hektor has fallen, or will still hold out even
                      though he is no longer living. But why argue with myself in this way, while
                      Patroklos is still lying at the ships unburied, and unmourned - he Whom I can
-                     never forget so long as I am alive and my strength fails not? <u id="13">Though men forget
+                     never forget so long as I am alive and my strength fails not? <u id="16">Though men forget
                      their dead when once they are within the house of Hades, yet not even there
                      will I forget the <man character= "Patroklos">comrade</man> whom I have lost</u>. Now, therefore, Achaean youths, let
                      us raise the song of victory and go back to the ships taking this <man character="generic">man</man> along
@@ -14025,9 +14024,9 @@
                      contumely: he pierced the sinews at the back of both his feet from heel to
                      ankle and passed thongs of ox-hide through the slits he had made: thus he made
                      the body fast to his chariot, letting the head trail upon the ground. Then when
-                     he had put the goodly armor on the chariot and had himself mounted, he lashed
+                     he had put the goodly aalongrmor on the chariot and had himself mounted, he lashed
                      his horses on and they flew forward nothing loath. The dust rose from Hektor as
-                     he was being dragged along, his dark hair flew all abroad, and his head once so
+                     he was being dragged , his dark hair flew all abroad, and his head once so
                      comely was laid low on earth, for Zeus had now delivered him into the hands of
                      his foes to do him outrage in his own land. </p>
 

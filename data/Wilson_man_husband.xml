@@ -1,66 +1,213 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="wilson.rnc" type="application/relax-ng-compact-syntax"?>
 <Iliad_Wilson>
+    
+    <!-- ================================================================ -->
+    
+    <!-- NOTES FOR THE TEAM:
+    
+    This is the new syntax I'm using for important comments you should read for directions. If you see a bar like above, you should read it all.
+    
+    I made a number of changes to this Wilson doc, and I'm going to suggest a few more.
+        - I renumbered these for the sake of chronology, so that they match with the text, and ordered them accordingly. This will make it easier for you to create a reading view.
+        - I commented out the scrolls, they didn't serve a structural purpose to me. I changed the schema to match.
+            - I suggest the same with the line numbers, which don't really serve a purpose. You don't want to overcomplicate your code. Take them out or justify them.
+            - I also added some attributes to "u" which are important and will make scraping easier for you.
+                - The attribute "g-word" means Greek word. It is upposed to be the word that this quote is marked up to concern in Greek. It can only be "anḗr."
+                - The attribute "b-word" means Butler Word. It is supposed to be the word that this quote is marked up to concern in Butler. It can be one of four values:
+                    - Values are "man," "husband," comrade," "none,"
+                - The attribute "w-word" means Wilson word. It is supposed to be the word that this quote is marked up to concern in Wilson. It can be one of five values:
+                    - Values are "man," "husband," comrade," "none,"
+                - The attribute "char" means character. Who is the word applying to?
+                    - Values are "Achilles," "Patroklos," and "Menelaus"
+                        - I also regexed every "Patroclus" to read "Patroklos"
+                - It's basically consolidating what you've already done into this one element, again, for scraping purposes
+    -->
+    
+    
     <p>
-        <character name= "Achilles">
-          <!--<scroll number="1"><li number= "285"> 
+        <!--<scroll number= "2">-->
+        <u id="1" g-word="anḗr" b-word="man" w-word="man" char="Achilles">
+            <li number="239">
+                <text>Just now he brought dishonor to Achilles who is a better <man
+                        character="Achilles">man</man> than him by far. </text>
+            </li>
+        </u>
+
+        <!--<scroll number= "3">-->
+        <u id="2" g-word="anḗr" b-word="husband" w-word="husband" char="Menelaus">
+            <li number="138">
+                <text> With this, the goddess poured into her heart sweet longing for her city and
+                    her parents, and for her former <husband character="Menelaus">husband</husband>.
+                </text>
+            </li>
+        </u>
+
+        <u id="3" g-word="anḗr" b-word="husband" w-word="husband" char="Menelaus">
+            <li number="163">
+                <text>"Dear child, come sit by me and watch your former <husband
+                        character="Menelaus">husband</husband> and family and friends and
+                    relatives.</text>
+            </li>
+        </u>
+
+        <u id="4" g-word="anḗr" b-word="husband" w-word="husband" char="Menelaus">
+            <li number="427">
+                <text>"So you came back from the fighting. I wish that you had died out there,
+                    defeated by that strong man who used to by my <husband character="Menelaus">husband</husband>.</text>
+            </li>
+        </u>
+        <!--</scroll>-->
+
+        <u id="5" g-word="anḗr" b-word="man" w-word="person" char="Achilles">
+            <li number="605">
+                <text>Swift Achilles answered him, "Nobel Patroklos, son of great Menoetius, you are
+                    the person dearest to my heart."
+                    <!-- Okay so, in Butler "man" is used but in 
+            Wilson "person" is used--></text>
+            </li>
+        </u>
+
+        <u id="6" g-word="anḗr" b-word="man" w-word="man" char="Achilles">
+            <li number="651">
+                <text>"The <man character="Achilles">man</man> is dangerous and quick to blame even
+                    the blameless." <!-- These 2 are Patroklos talking about Achilles -->
+                </text>
+            </li>
+        </u>
+        <!-- ==================================================== -->
+        
+        <!-- NOTE: I don't see where 7 is in Butler, and I don't see man in either. I'd suggest deleting it or fixing it.
+            If you delete it for good though, then you just need to move up all <u> id numbers down by one in all docs
+            
+            -->
+        <!-- =====================================================-->    
+        <u id="7" g-word="anḗr" b-word="none" w-word="none" char="Achilles">
+            <li number="786">
+                <text>'My son, Achilles comes from higher birth, and he is stronger -but you are the
+                    elder. You must advise him, counsel him, direct him. It will be better if he
+                    yields to you.'<!-- No man in this, but there is in Butler's.
+             This is someone talking to Patroklos about Achilles--></text>
+            </li>
+        </u>
+        <!--</scroll>-->
+
+        <!--<scroll number= "16">-->
+        <u id="8" g-word="anḗr" b-word="man" w-word="none" char="Achilles">
+            <li number="272">
+                <text>He is by far the best of all the Greeks, and his subordinates are best as
+                    well.<!-- No man used, but
+             used in Butler--></text>
+            </li>
+        </u>
+        
+        <!-- ==================================================== -->
+            
+            <!-- NOTE: I think you may have accidentally deleted 9 in the BUTLER. You can delete it permanently or restore the text. Either is an acceptable solution.
+            If you delete it for good though, then you just need to move up all <u> id numbers down by one in all docs (e.g. 10 becomes 9, 11 becomes 10, 12 becomes 11, and so on until 16 becomes 15)
+            
+            -->
+        <!-- =====================================================-->    
+            
+            <!--<scroll number= "16">
+                <u id="9">
+                    <li number= "317">
+               <text>"When I go out with him into the wilds of Ares,
+               my companion rages with hands that cannot be defeated.
+                   <!-\\- Companion used instead of man -\\-></text></li></u>-->
+
+        <!--<scroll number= "11">-->
+        <u id="10" g-word="anḗr" b-word="man" w-word="man" char="Patroklos">
+            <li number="422">
+                <text>"Lycians, for shame! Where are you running off to? Stay sharp! I will myself
+                    go face this <man character="Patroklos"> man</man> and find out who is
+                    dominating us</text>
+            </li>
+        </u>
+        <!--</scroll>-->
+
+        <u id="11" g-word="anḗr" b-word="man" w-word="none" char="Achilles">
+            <li number="708">
+                <text>"Even Achilles will not take this city, although he is superior to
+                    you."<!-- No man used, but used in Butler.
+              This is Apollo talking to Patroklos--></text>
+            </li>
+        </u>
+        <!--</scroll>-->
+
+        <!--<scroll number= "17">-->
+        <u id="12" g-word="anḗr" b-word="man" w-word="man" char="Patroklos">
+            <li number="164">
+                <text>This dead <man character="Patroklos">man </man> was the comrade of the best by
+                    far all the Greeks beside the ships, and their battalion is the best as
+                    well</text>
+            </li>
+        </u>
+        <!-- ==================================================== -->
+        
+        <!-- NOTE: I don't see where 13 is in Butler, and I don't see man in it. The quotes don't match up. Fix or delete, but this seems doable. Just a problem of matching up.
+            If you delete it for good though, then you just need to move up all <u> id numbers down by one in all docs
+            
+            -->
+        <!-- =====================================================-->   
+        <u id="13" g-word="anḗr" b-word="man" w-word="comrade" char="Patroklos">
+            <li number="270">
+                <text>Patroklos had been dear to him before, in former times, when he was still
+                    alive, when he had been the comrade of Achilles.<!-- Man not used --></text>
+            </li>
+        </u>
+        <!--</scroll>-->
+        
+        <!--<scroll number= "18">-->
+        <u id="14" g-word="anḗr" b-word="man" w-word="man" char="Achilles">
+            <li number="269">
+                <text>"and we will see what kind of <man character="Achilles">man</man> he
+                    is."<!-- Man shows up here, but is not in Butler. In Butler, 
+              man shows up around line 250 but not in Wilson--></text>
+            </li>
+        </u>
+        <!-- ==================================================== -->
+        
+        <!-- NOTE: I don't see where 15 is in Butler, The quotes don't match up, this seems doable, though. Fix it or delete it, but this one seems very doable.       
+            -->
+        <!-- =====================================================-->   
+        <u id="15" g-word="anḗr" b-word="man" w-word="none" char="Achilles">
+            <li number="607">
+                <text>Achilles had no sweetness in his heart, no softness in his mind. He was riled
+                    up with frenzied eagerness to fight and kill.
+                    <!-- No man used, but used in Butler --></text>
+            </li>
+        </u>
+        <!--</scroll>-->
+
+        <!--<scroll number= "22">-->
+        <u id="16" g-word="anḗr" b-word="man" w-word="none" char="Achilles" >
+            <li number="385">
+                <text>"I will not forget Patroklos, never, while my body moves, while I am still
+                    among those still alive, and even if the dead forget each other in Hades, even
+                    there I will remeber my friend, the <man character="Patroklos">man</man> I
+                    love." </text>
+            </li>
+        </u>
+        <!--</scroll>-->
+
+    </p>
+
+
+    <!-- EXTRA QUOTE MATTER -->
+    <!--<scroll number="1"><li number= "285"> 
              <text>Lord Agamemmnon replied, "Old man, all that is well and good.
              But this <man character= "Achilles">man</man> wants to be superior
              to everybody else- to dominate, to lead us all, to rule us all,
-             to give orders to everyone."</text></li></scroll>-->    
-          
-             
-          <scroll number= "2">
-              <u id="1">
-                <li number= "239">
-                <text>Just now he brought dishonor to Achilles who is a better
-                  <man character= "Achilles">man</man> than him by far.
-                </text>
-                </li>
-              </u>
-            
-          <!--<scroll number= "11"><li number= "644">
+             to give orders to everyone."</text></li></scroll>-->
+
+    <!--<scroll number= "11"><li number= "644">
              <text>"This is no time for sitting down, old king. I will not do it. 
                  The <man character= "Achilles">man</man> who sent me here requires respect,
                  and he is quick to anger." <!-\- This wasn't in Butler -\->
              </text></li></scroll>-->
-           
-           <u id="2">
-            <li number= "651">
-             <text>"The <man character= "Achilles">man</man> is dangerous and quick to blame
-                 even the blameless." <!-- These 2 are Patroklos talking about Achilles -->    
-             </text></li></u>
-             
-           <u id="3">  
-             <li number= "786">
-             <text>'My son, Achilles comes from higher birth, and he is stronger
-             -but you are the elder. You must advise him, counsel him, direct him. It will 
-             be better if he yields to you.'<!-- No man in this, but there is in Butler's.
-             This is someone talking to Patroklos about Achilles--></text></li></u></scroll>
-           
-           
-          <scroll number= "16">
-              <u id="4">
-              <li number= "272">
-             <text>He is by far the best of all the Greeks, and 
-             his subordinates are best as well.<!-- No man used, but
-             used in Butler--></text></li></u>
-           
-           <u id="5">
-             <li number= "708">
-              <text>"Even Achilles will not take this city,
-              although he is superior to you."<!-- No man used, but used in Butler.
-              This is Apollo talking to Patroklos--></text></li></u></scroll>
-            
-            
-          <scroll number= "18">
-              <u id="6">
-              <li number= "269">
-              <text>"and we will see what kind of <man character= "Achilles">man</man>
-              he is."<!-- Man shows up here, but is not in Butler. In Butler, 
-              man shows up around line 250 but not in Wilson--></text></li></u>
-            
-           <!-- <scroll number= "20"><li number= "332">
+
+    <!-- <scroll number= "20"><li number= "332">
                 <text>"Aeneas, which god has made you so delusional? Which god
                 commanded you to fight against the haughty son of Peleus,
                 who is much stronger than you are, and loved more dearly
@@ -71,154 +218,49 @@
                 at the front, because no other Greek will slaughter you."<!-\- no 
                 man used, but there is in Butler-\->
                 </text></li></scroll>-->
-              
-           <u id="7">
-            <li number= "607">
-                <text>Achilles had no sweetness in his heart, no softness in 
-                his mind. He was riled up with frenzied eagerness to fight and 
-                kill. <!-- No man used, but used in Butler --></text></li></u></scroll>
-            
-           <!-- <scroll number= "21"><li number= "263">
+    <!-- <scroll number= "21"><li number= "263">
                 <text>the water gushes forth and all the pebbles
                 are swept away, and gurgling as it goes the stream flows
                 down the slope, soon overtaking the <man character= "Achilles">man
                 who made it</man></text></li></scroll>-->
-            
-          <!--  <li number= "538"/>
+    
+    <!--  <li number= "538"/>
                 <text>"I am afriad that deadly <man character= "Achilles">man
                 </man>may leap inside the city past the wall."</text>-->
-            
-            <!--<li number= "571"/>
+    
+    <!--<li number= "571"/>
                 <text>With these words, he crouched down and waited for 
                 Achilles. His brave heart felt stirred to fight. As when a leopard
                 moves out of the undergrowth to face the hunter, and feels no
                 fear or trembling in her heart <!-\- no man -\-></text>-->
-                
-        </character>
-        
-       
-        <character name= "Patroclus">
-            
-            
-            <scroll number= "11">
-                <u id="8">
-                <li number= "605">
-               <text>Swift Achilles answered him, "Nobel Patroclus,
-            son of great Menoetius, you are the person dearest to 
-            my heart." <!-- Okay so, in Butler "man" is used but in 
-            Wilson "person" is used--></text></li></u></scroll>
-            
-        
-            <scroll number= "16">
-                <u id="9">
-                    <li number= "317">
-               <text>"When I go out with him into the wilds of Ares,
-               my companion rages with hands that cannot be defeated.
-                   <!-- Companion used instead of man --></text></li></u>
-
-         <u id="10">
-            <li number= "422">
-            <text>"Lycians, for shame! Where are you running off to?
-                Stay sharp! I will myself go face this <man character= "Patroclus">
-                    man</man> and find out who is dominating us</text></li></u></scroll>
-               
-               
-            
-
-            
-            <!--<li number= "810"/>
-            <text>That very day Euphorbus had arrived at Troy behind his horses
-            , and first learned the ways of war <!-\- from 810-820 man is not used at all
-            like it is in Butler-\-></text>-->
-            
-            
-            <scroll number= "17">
-                <u id="11">
-                <li number= "164">
-                    <text>This dead <man character= "Patroclus">man
-               </man> was the comrade of the best by far all the Greeks
-                   beside the ships, and their battalion is the best
-                   as well</text></li></u>
-                
-            <u id="12">
-            <li number= "270">
-                <text>Patroclus had been dear to him before, in former times,
-                when he was still alive, when he had been the comrade of 
-                Achilles.<!-- Man not used --></text></li></u></scroll>
-            
-            <!--<scroll number= "19"><li number= "5">
-                <text>"My child, we have to let him lie despite our grief,
-                because it is according to the will of gods that he is
-                gone, once and for all. Now you must take his glorious set
-                of armor, which no other man has ever worn."
-                <!-\- man is used in a generic context here but not for Patroklos
-                -\-></text></li></scroll>-->
-            
-            <!--<scroll number= "21"><li number= "103">
-                <text>"But now, no Trojan will escape from death, whenever a god 
-                casts one of you into my hands in front of Troy-especially
-                sons of Priam." <!-\- man is used a few lines down to refer to 
-                Achille's dad but not for Patroklos-\-></text></li></scroll>-->
-            
-            
-            <scroll number= "22">
-                <u id="13">
-                <li number= "385">
-                <text>"I will not forget Patroclus, never, while my
-                body moves, while I am still among those still alive, and 
-                even if the dead forget each other in Hades, even there I will
-                remeber my friend, the <man character= "Patroclus">man</man> I love."
-                </text></li></u></scroll>
-        </character>
-      
-       
-       <character name= "Menelaus"> <!-- both man and husband -->
-           
-           
-            <scroll number= "3">
-                <u id="14">
-                <li number= "138">
-               <text>With this, the goddess poured into her heart sweet
-               longing for her city and her parents, and for her
-               former <husband character= "Menelaus">husband</husband>.</text></li></u>
-           
-                <u id="15">
-                    <li number= "163">
-                <text>"Dear child, come sit by me and watch your former
-                <husband character= "Menelaus">husband</husband> and family and friends 
-                    and relatives.</text></li>
-               </u>
-           
-           <!--<li number= "210"/>
+    
+    <!-- <scroll number= "21"><li number= "263">
+                <text>the water gushes forth and all the pebbles
+                are swept away, and gurgling as it goes the stream flows
+                down the slope, soon overtaking the <man character= "Achilles">man
+                who made it</man></text></li></scroll>-->
+    
+    <!--  <li number= "538"/>
+                <text>"I am afriad that deadly <man character= "Achilles">man
+                </man>may leap inside the city past the wall."</text>-->
+    
+    <!--<li number= "571"/>
+                <text>With these words, he crouched down and waited for 
+                Achilles. His brave heart felt stirred to fight. As when a leopard
+                moves out of the undergrowth to face the hunter, and feels no
+                fear or trembling in her heart <!-\- no man -\-></text>-->
+   
+    <!--<li number= "210"/>
                 <text>But when they sat, Odysseus had more authority. When they 
                 were weaving words and telling everybody their proposals, then 
                 Menelaus could speak fluently</text> <!-\- no man used -\->-->
-                
-           <u id="16">
-           <li number= "427">
-                <text>"So you came back from the fighting. I wish that you had died
-                out there, defeated by that strong <man character= "Menelaus">man</man>
-                    who used to by my <husband character= "Menelaus">husband</husband>.</text></li></u></scroll>
-           
-         <!--  <scroll number= "23"><li number= "590">
+    
+    
+    
+    <!--  <scroll number= "23"><li number= "590">
                 <text>Intelligent Antilochus replied, "Hold on now, Menelaus.
                 I am, sir, younger than you by far. You are my senior, and my superior.
                <!-\- no man -\-> </text></li></scroll>-->
-           
-           
-       </character>
-    
-    
-    
-    </p>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+   <!-- END OF COMMENTED OUT QUOTES -->
+
 </Iliad_Wilson>

@@ -1,13 +1,17 @@
 start = Iliad_Wilson
 
 Iliad_Wilson = element Iliad_Wilson {p}
-    p = element p {character*}
-        character = element character {name, scroll*}
-            name = attribute name {text}
-            scroll = element scroll {scroll_n, u*}
-                scroll_n = attribute number {text}
-                u = element u {id, li}
+    p = element p {u+}
+        # character = element character {name, scroll*}
+            # name = attribute name {text}
+            # scroll = element scroll {scroll_n, u*}
+                # scroll_n = attribute number {text}
+                u = element u {id, g-word, b-word, w-word, char, li}
                     id = attribute id {text}
+                    g-word = attribute g-word {"anḗr"}
+                    b-word = attribute b-word {"man" | "husband" | "comrade" | "none"}
+                    w-word = attribute w-word {"man" | "husband" | "comrade" | "person" | "none"}
+                    char = attribute char {"Achilles" | "Patroklos" | "Menelaus"}
                     li = element li {li_n, li_text}
                         li_n = attribute number {text}
                         li_text = element text {mixed{man* | husband*}*}
