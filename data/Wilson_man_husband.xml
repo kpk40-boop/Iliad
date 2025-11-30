@@ -9,12 +9,13 @@
     This is the new syntax I'm using for important comments you should read for directions. If you see a bar like above, you should read it all.
     
     I made a number of changes to this Wilson doc, and I'm going to suggest a few more.
-        - I renumbered these for the sake of chronology, so that they match with the text, and ordered them accordingly. This will make it easier for you to create a reading view.
-            - KATIE::I renumbered the Greek and added the changes, but I NEED you to verify them for me. I have no way of checking to see if the quotes you have line up with those in Butler and Wilson.
+        - I renumbered these for the sake of chronology, so that they match with the text, and ordered them accordingly. I also expanded them so they encompass whole sentences, not just the word. This will make it easier for you to create a reading view.
+            - KATIE::I renumbered the Greek and added the changes, but I need you to verify them for me. I have no way of checking to see if the quotes you have line up with those in Butler and Wilson.
                 And to be completely honest, it did not look like they matched up before I renumbered them, just based on a couple of things:
                     -The order of your ID numbers did not match Cheyenne's in the Butler before I renumbered.
-                    -You only have 15 u elements. There are 16.   
-        - I have concerns about a few of them, see comments below. The most pressing are number 9 and number 7. I have commented out number 9 in every version of the text.
+                    -You only have 15 u elements. There are 16.
+                    -The U elements seem to stop and start at random, but again I don't read ancient Greek.
+        - I have concerns about a few of the u quotes, see comments below. The most pressing are number 9 and number 7. I have commented out number 9 in every version of the text.
         - I commented out the scrolls, they didn't serve a structural purpose to me. I changed the schema to match.
             - I suggest the same with the line numbers, which don't really serve a purpose. You don't want to overcomplicate your code. Take them out or justify them.
             - I also added some attributes to "u" which are important and will make scraping easier for you.
@@ -28,8 +29,9 @@
                         - I also regexed every "Patroclus" to read "Patroklos"
                 - It's basically consolidating what you've already done into this one element, again, for scraping purposes
          - KOSI AND CHEYENNE: I'm sorry, I know you're struggling with the graph but I can't make it for you. It's your group project. I suggest either challenging yourself and 
-         making a pi chart, regardless (We can talk to Dr.Pickett about this to help finish it - he would be happy to help) or getting innovative with the data we have.
-            - If you want another easy qualitative angle to graph, I'd suggest adding a tone element. Not necessary, but could help your process -->
+         making a pie chart (We can talk to Dr.Pickett and Dr.Birnbaum about this - they would be happy to help) or getting innovative with the data we have.
+            - If you really struggle to differentiate in the graph, I'd suggest adding a tone attribute. 
+            Not at all necessary, but could help your process. Just make sure you change schemas as well if you do, and make sure to be consistent in application. -->
     <!-- =================================================================== -->
     
     
@@ -202,7 +204,8 @@
     </p>
 
 
-    <!-- EXTRA QUOTE MATTER -->
+    <!-- EXTRA QUOTE MATTER - Cheyenne, I don't know what you want to do with these. We can delete or add them. -->
+    
     <!--<scroll number="1"><li number= "285"> 
              <text>Lord Agamemmnon replied, "Old man, all that is well and good.
              But this <man character= "Achilles">man</man> wants to be superior
