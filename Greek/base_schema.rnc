@@ -95,7 +95,11 @@ TEI = element TEI {teiHeader, textElement}
                                 q_q_l_n = attribute n {text}
                         q_note = element note {q_note_resp, text}
                             q_note_resp = attribute resp {text}
-                   u = element u {id, (l* | q*)*}
+                   u = element u {id, g-word, b-word, w-word, char, (l* | q*)*}
+                                    g-word = attribute g-word {"anḗr"}
+                                    b-word = attribute b-word {"man" | "husband" | "comrade" | "none"}
+                                    w-word = attribute w-word {"man" | "husband" | "comrade" | "person" | "none"}
+                                    char = attribute char {"Achilles" | "Patroklos" | "Menelaus"}
                     id = attribute id {text}
                     
                     

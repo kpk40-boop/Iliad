@@ -10,6 +10,11 @@
     
     I made a number of changes to this Wilson doc, and I'm going to suggest a few more.
         - I renumbered these for the sake of chronology, so that they match with the text, and ordered them accordingly. This will make it easier for you to create a reading view.
+            - KATIE::I renumbered the Greek and added the changes, but I NEED you to verify them for me. I have no way of checking to see if the quotes you have line up with those in Butler and Wilson.
+                And to be completely honest, it did not look like they matched up before I renumbered them, just based on a couple of things:
+                    -The order of your ID numbers did not match Cheyenne's in the Butler before I renumbered.
+                    -You only have 15 u elements. There are 16.   
+        - I have concerns about a few of them, see comments below. The most pressing are number 9 and number 7. I have commented out number 9 in every version of the text.
         - I commented out the scrolls, they didn't serve a structural purpose to me. I changed the schema to match.
             - I suggest the same with the line numbers, which don't really serve a purpose. You don't want to overcomplicate your code. Take them out or justify them.
             - I also added some attributes to "u" which are important and will make scraping easier for you.
@@ -22,7 +27,9 @@
                     - Values are "Achilles," "Patroklos," and "Menelaus"
                         - I also regexed every "Patroclus" to read "Patroklos"
                 - It's basically consolidating what you've already done into this one element, again, for scraping purposes
-    -->
+         - KOSI AND CHEYENNE: I'm sorry, I know you're struggling with the graph but I can't make it for you. It's your group project. I suggest either challenging yourself and 
+         making a pi chart, regardless (We can talk to Dr.Pickett about this to help finish it - he would be happy to help) or getting innovative with the data we have.
+            - If you want another easy qualitative angle to graph, I'd suggest adding a tone element. Not necessary, but could help your process -->
     <!-- =================================================================== -->
     
     
