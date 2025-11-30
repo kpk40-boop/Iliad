@@ -5,7 +5,7 @@
     xmlns:math="http://www.w3.org/2005/xpath-functions/math" 
     exclude-result-prefixes="#all"
     version="3.0">
-    
+    <!-- You have to use the greek xml as the original or "principal" input document when doing the transformation. It won't work otherwise. -->
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="no" 
         include-content-type="no" indent="yes"/>
     
