@@ -63,5 +63,11 @@ em {
 }
 
 svg {
-    background-color: beige
+    background-color: beige;
+}
+
+Works Cited{
+    flex-direction: row;
+    background-color: beige;
+    color: brown;
 }
