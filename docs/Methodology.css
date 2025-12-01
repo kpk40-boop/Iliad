@@ -61,3 +61,7 @@ em {
   font-weight: bold;
   font-family: cursive;
 }
+
+svg {
+    background-color: beige
+}
