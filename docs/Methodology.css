@@ -67,7 +67,7 @@ svg {
 }
 
 Works Cited{
-    flex-direction: row;
-    background-color: beige;
+    display: flex;
+    background-color: tan;
     color: brown;
 }
