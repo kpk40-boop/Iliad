@@ -5,7 +5,11 @@
 }
 
 body {
-    background-image: url("iliad_image.jpg");
+  background-image: url("iliad_image.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: beige;
 }
 
 div {
@@ -59,7 +63,24 @@ h1 {
 }
 
 
+div.view-banner {
+    display: flex;
+    background-color: transparent;
+    border: none;
+    margin: 0;
+}
+
+div.view-banner div {
+    background-color: white;
+    flex: 1;
+    padding: 12px;
+    background-color: tr;
+}
+
+div.container {
+    background-color: rgba(245, 245, 220, 0.85); 
+}
+
 p {
-    padding: 30px;
-    font-size: 30px;
+    color: black;
 }
