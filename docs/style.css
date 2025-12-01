@@ -87,5 +87,30 @@ a:hover {
     font-size: 1rem;
   }
 }
+/*style buttons on home page: */
+.button {
+  padding: 12px 25px;
+  font-size: 18px;
+  background-color: #965023;  
+  color: beige;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.button:hover {
+  background-color: maroon;
+}
+
+.button:active {
+  background-color: #5e4025;
+}
 
 
+#demo {
+  text-align: center;
+  font-size: 1.2rem;
+  color: beige;
+  margin-top: 1rem;
+}
