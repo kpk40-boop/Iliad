@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comparison-analysis title="Word Choice Comparison (Achilles, Patroklos, Menelaos)">
+    <character name="Achilles">
+        
+        <version name="Butler" word-choice="Man">
+            <count>8</count> 
+        </version>
+        
+        <version name="Butler" word-choice="Husband">
+            <count>0</count> 
+        </version>
+        
+        <version name="Wilson" word-choice="Man">
+            <count>3</count>
+        </version>
+       
+       <version name="Wilson" word-choice="Husband">
+           <count>0</count>
+       </version>
+       
+       <version name="Wilson" word-choice="Ambiguous">
+           <count>6</count>
+       </version>
+       
+       
+       
+    </character>
+    
+    <character name="Patroklos">
+        <version name="Butler" word-choice="Man">
+            <count>3</count> 
+        </version>
+        
+        <version name="Butler" word-choice="Husband">
+            <count>0</count>
+        </version>
+        
+        <version name="Wilson" word-choice="Man">
+            <count>2</count>
+        </version>
+        
+        <version name="Wilson" word-choice="Husband">
+            <count>0</count>
+        </version>
+        
+        <version name="Wilson" word-choice="Ambiguous">
+            <count>1</count>
+        </version>
+            
+      
+    </character>
+    
+    <character name="Menelaus">
+        <version name="Butler" word-choice="Man">
+            <count>0</count>
+        </version>
+        
+        <version name="Butler" word-choice="Husband">
+            <count>4</count>
+        </version>
+        
+        <version name="Wilson" word-choice="Man">
+            <count>0</count>
+        </version>
+        
+        <version name="Wilson" word-choice="Husband">
+            <count>3</count>
+        </version>
+        
+        <version name="Wilson" word-choice="Ambiguous">
+            <count>0</count>
+        </version>
+           
+    </character>
+    
+</comparison-analysis>
+
+<!--<version name="Wilson" word-choice="Ambiguous">
+            <count>2</count> 
+        </version>-->
+
+<!-- <version name="Wilson" word-choice=-->
