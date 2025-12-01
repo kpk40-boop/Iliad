@@ -26,5 +26,29 @@
         <li> Take a look at the Scrolls on the Corpus page!</li> 
       </ul> 
     </div>
+   <p id="demo"></p>
+      <button class="button"
+        onclick="document.getElementById('demo').innerHTML = getRndQuote()">
+        Click Here for a Fun Iliad Fact
+      </button>
+      
+      <script type="text/javascript">
+        const quotes = [
+          "\"The Iliad was originally part of an oral storytelling tradition!\"",
+          "\"Patroclus’ name may derive from 'glory of the father'.\"",
+          "\"Achilles’ anger drives the entire epic—and the first word of the text is actually 'wrath'.\"",
+          "\"Homer never directly states the ages of Achilles and Patroclus—many scholars believe they were very young.\"",
+          "\"The Iliad ends before the Trojan Horse story—most people don’t realize it!\"",
+          "\"Ancient Greek manuscripts had no spaces, punctuation, or lowercase letters.\"",
+          "\"The word for 'husband' in ancient Greek often overlaps with the word for 'man'.\"",
+          "\"Only a small portion of the Trojan War appears in the Iliad—just a few weeks out of ten years.\""
+        ];
+
+        const arrLength = quotes.length;
+        let result = "";
+        function getRndQuote() {
+          return quotes[Math.floor(Math.random() * arrLength)];
+        }
+      </script>
   </body>
-</html>
+</html> 
