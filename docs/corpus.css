@@ -49,6 +49,17 @@ div.NavBar a:hover {
   text-decoration: underline;
 }
 
+a {
+  text-decoration: none;
+  color: #965023;
+  font-weight: bold;
+}
+
+a:hover {
+  color: maroon;
+  text-decoration: underline;
+}
+
 span.man {
   color: maroon;
   font-weight: bold;

@@ -40,6 +40,17 @@ div.NavBar a:hover {
   text-decoration: underline;
 }
 
+a {
+  text-decoration: none;
+  color: #965023;
+  font-weight: bold;
+}
+
+a:hover {
+  color: maroon;
+  text-decoration: underline;
+}
+
 section {
   background-color: rgba(245, 245, 220, 0.85); 
   color: #8B6B4A; 

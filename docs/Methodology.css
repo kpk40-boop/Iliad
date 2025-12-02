@@ -32,7 +32,24 @@ div.NavBar {
       color: #8B6B4A;
   text-decoration: none;
   transition: background 0.3s;
-  }
+
+}
+
+div.NavBar a:hover {
+  color: maroon;
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+  color: #965023;
+  font-weight: bold;
+}
+
+a:hover {
+  color: maroon;
+  text-decoration: underline;
+}
   
 section {
   background-color: rgba(245, 245, 220, 0.85); 
