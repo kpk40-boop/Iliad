@@ -9,7 +9,6 @@ body {
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  color: beige;
 }
 
 div {
@@ -27,7 +26,7 @@ a {
 
 h1 {
     text-align:center;
-    color: beige;
+  color: #5e4025;
     margin: 20px;
 }
 
@@ -65,16 +64,32 @@ h1 {
 
 div.view-banner {
     display: flex;
-    background-color: transparent;
     border: none;
     margin: 0;
+    background-color: transparent;
+}
+
+div.view-banner-titles {
+    display: flex;
+    border: none;
+    margin: 0;   
+    background: transparent;
+}
+
+div.view-banner-titles div {
+  background-color: transparent;
+    flex: 1;
+    padding: 12px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
 }
 
 div.view-banner div {
-    background-color: white;
+  background-color: rgba(255, 255, 240, 0.9);
     flex: 1;
     padding: 12px;
-    background-color: tr;
+    border: black solid 2px;
 }
 
 div.container {
@@ -82,5 +97,11 @@ div.container {
 }
 
 p {
-    color: black;
+  color: #5e4025;
+  font-size: 1.2rem;
+    
+}
+
+h1.reading-view-h1 {
+    color: beige;
 }
