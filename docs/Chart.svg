@@ -3,7 +3,7 @@
      width="1000"
      height="400"
      viewBox="0 0 1000 400">
-   <title>Comparative Word Choice: Butler vs. Wilson</title>
+   <title>Comparative Word Choice: Butler vs. Wilson vs. Greek</title>
    <line x1="50"
          y1="50"
          x2="50"
@@ -78,72 +78,98 @@
          font-size="16">
             Count
         </text>
-   <text x="147.5"
+   <text x="139.5"
          y="370"
          font-family="sans-serif"
          font-size="14"
          font-weight="bold"
          text-anchor="middle">Achilles</text>
-   <rect x="100" y="50" width="15" height="300" fill="blue"/>
+   <rect x="100" y="50" width="15" height="300" fill="#4D89Bo"/>
    <text x="107.5"
          y="45"
          text-anchor="middle"
          font-family="sans-serif"
          font-size="11">8</text>
-   <rect x="140" y="237.5" width="15" height="112.5" fill="green"/>
-   <text x="147.5"
+   <rect x="132" y="237.5" width="15" height="112.5" fill="#9D8C71"/>
+   <text x="139.5"
          y="232.5"
          text-anchor="middle"
          font-family="sans-serif"
          font-size="11">3</text>
-   <rect x="180" y="125" width="15" height="225" fill="purple"/>
+   <rect x="164" y="125" width="15" height="225" fill="#AA633F"/>
+   <text x="171.5"
+         y="120"
+         text-anchor="middle"
+         font-family="sans-serif"
+         font-size="11">6</text>
+   <rect x="180" y="125" width="15" height="225" fill="#C8A55F"/>
    <text x="187.5"
          y="120"
          text-anchor="middle"
          font-family="sans-serif"
          font-size="11">6</text>
-   <text x="347.5"
+   <rect x="212" y="275" width="15" height="75" fill="#9F8771"/>
+   <text x="219.5"
+         y="270"
+         text-anchor="middle"
+         font-family="sans-serif"
+         font-size="11">2</text>
+   <text x="339.5"
          y="370"
          font-family="sans-serif"
          font-size="14"
          font-weight="bold"
          text-anchor="middle">Patroklos</text>
-   <rect x="300" y="237.5" width="15" height="112.5" fill="blue"/>
+   <rect x="300" y="237.5" width="15" height="112.5" fill="#4D89Bo"/>
    <text x="307.5"
          y="232.5"
          text-anchor="middle"
          font-family="sans-serif"
          font-size="11">3</text>
-   <rect x="340" y="275" width="15" height="75" fill="green"/>
-   <text x="347.5"
+   <rect x="332" y="275" width="15" height="75" fill="#9D8C71"/>
+   <text x="339.5"
          y="270"
          text-anchor="middle"
          font-family="sans-serif"
          font-size="11">2</text>
-   <rect x="380" y="312.5" width="15" height="37.5" fill="purple"/>
-   <text x="387.5"
+   <rect x="364" y="312.5" width="15" height="37.5" fill="#AA633F"/>
+   <text x="371.5"
          y="307.5"
          text-anchor="middle"
          font-family="sans-serif"
          font-size="11">1</text>
-   <text x="547.5"
+   <rect x="380" y="275" width="15" height="75" fill="#C8A55F"/>
+   <text x="387.5"
+         y="270"
+         text-anchor="middle"
+         font-family="sans-serif"
+         font-size="11">2</text>
+   <rect x="412" y="312.5" width="15" height="37.5" fill="#9F8771"/>
+   <text x="419.5"
+         y="307.5"
+         text-anchor="middle"
+         font-family="sans-serif"
+         font-size="11">1</text>
+   <text x="539.5"
          y="370"
          font-family="sans-serif"
          font-size="14"
          font-weight="bold"
          text-anchor="middle">Menelaus</text>
-   <rect x="520" y="200" width="15" height="150" fill="darkblue"/>
-   <text x="527.5"
+   <rect x="516" y="200" width="15" height="150" fill="#937449"/>
+   <text x="523.5"
          y="195"
          text-anchor="middle"
          font-family="sans-serif"
          font-size="11">4</text>
-   <rect x="560"
-         y="237.5"
-         width="15"
-         height="112.5"
-         fill="darkgreen"/>
-   <text x="567.5"
+   <rect x="548" y="237.5" width="15" height="112.5" fill="#BBB093"/>
+   <text x="555.5"
+         y="232.5"
+         text-anchor="middle"
+         font-family="sans-serif"
+         font-size="11">3</text>
+   <rect x="596" y="237.5" width="15" height="112.5" fill="#BEB4A7"/>
+   <text x="603.5"
          y="232.5"
          text-anchor="middle"
          font-family="sans-serif"
@@ -153,14 +179,20 @@
          font-family="sans-serif"
          font-size="16"
          font-weight="bold">Legend</text>
-   <rect x="770" y="95" width="20" height="20" fill="blue"/>
+   <rect x="770" y="95" width="20" height="20" fill="#4D89Bo"/>
    <text x="795" y="110" font-family="sans-serif" font-size="14">Butler: Man</text>
-   <rect x="770" y="125" width="20" height="20" fill="darkblue"/>
+   <rect x="770" y="125" width="20" height="20" fill="#937449"/>
    <text x="795" y="140" font-family="sans-serif" font-size="14">Butler: Husband</text>
-   <rect x="770" y="155" width="20" height="20" fill="green"/>
+   <rect x="770" y="155" width="20" height="20" fill="#9D8C71"/>
    <text x="795" y="170" font-family="sans-serif" font-size="14">Wilson: Man</text>
-   <rect x="770" y="185" width="20" height="20" fill="darkgreen"/>
+   <rect x="770" y="185" width="20" height="20" fill="#BBB093"/>
    <text x="795" y="200" font-family="sans-serif" font-size="14">Wilson: Husband</text>
-   <rect x="770" y="215" width="20" height="20" fill="purple"/>
+   <rect x="770" y="215" width="20" height="20" fill="#AA633F"/>
    <text x="795" y="230" font-family="sans-serif" font-size="14">Wilson: Ambiguous</text>
+   <rect x="770" y="245" width="20" height="20" fill="#C8A55F"/>
+   <text x="795" y="260" font-family="sans-serif" font-size="14">Greek: Man</text>
+   <rect x="770" y="275" width="20" height="20" fill="#BEB4A7"/>
+   <text x="795" y="290" font-family="sans-serif" font-size="14">Greek: Husband</text>
+   <rect x="770" y="305" width="20" height="20" fill="#9F8771"/>
+   <text x="795" y="320" font-family="sans-serif" font-size="14">Greek: Ambiguous</text>
 </svg>

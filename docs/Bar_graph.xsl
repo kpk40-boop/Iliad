@@ -11,14 +11,15 @@
     <xsl:variable name="chart-height" select="400"/>
     <xsl:variable name="margin" select="50"/>
     <xsl:variable name="bar-width" select="15"/>
-    <xsl:variable name="inner-spacing" select="5"/>
+    <xsl:variable name="inner-spacing" select="1"/>
     <xsl:variable name="num-bars-per-group" select="5"/>
     <xsl:variable name="group-width" select="$num-bars-per-group * $bar-width + ($num-bars-per-group - 1) * $inner-spacing"/>
     <xsl:variable name="group-spacing" select="200"/>
     <xsl:variable name="legend-x" select="$chart-width + 20"/>
     
-    <xsl:variable name="groups" select="('Butler: Man', 'Butler: Husband', 'Wilson: Man', 'Wilson: Husband', 'Wilson: Ambiguous')"/>
-    <xsl:variable name="colors" select="('blue', 'darkblue', 'green', 'darkgreen', 'purple')"/>
+    <xsl:variable name="groups" select="('Butler: Man', 'Butler: Husband', 'Wilson: Man', 'Wilson: Husband', 'Wilson: Ambiguous', 'Greek: Man',
+        'Greek: Husband', 'Greek: Ambiguous')"/>
+    <xsl:variable name="colors" select="('#4D89Bo', '#937449', '#9D8C71', '#BBB093', '#AA633F', '#C8A55F', '#BEB4A7', '#9F8771')"/>
     
     <xsl:template match="/">
         <xsl:variable name="all-counts" select="//count"/>
@@ -29,7 +30,7 @@
             select="($chart-height - 2 * $margin) div $max-count"/>
         
         <svg width="{$chart-width + 250}" height="{$chart-height}" viewBox="0 0 {$chart-width + 250} {$chart-height}">
-            <title>Comparative Word Choice: Butler vs. Wilson</title>
+            <title>Comparative Word Choice: Butler vs. Wilson vs. Greek</title>
             
             <xsl:call-template name="draw-axes">
                 <xsl:with-param name="max-count" select="$max-count"/>
@@ -135,5 +136,7 @@
             </text>
         </xsl:for-each>
     </xsl:template>
+    
+    
     
 </xsl:stylesheet>

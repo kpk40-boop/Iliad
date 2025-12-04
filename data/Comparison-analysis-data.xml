@@ -21,7 +21,18 @@
        <version name="Wilson" word-choice="Ambiguous">
            <count>6</count>
        </version>
-       
+        
+        <version name= "Greek" word-choice="Man">
+            <count>6</count>
+        </version>
+        
+        <version name= "Greek" word-choice="Husband">
+            <count>0</count>
+        </version>
+        
+        <version name= "Greek" word-choice="Ambiguous">
+            <count>2</count>
+        </version>
        
        
     </character>
@@ -46,7 +57,20 @@
         <version name="Wilson" word-choice="Ambiguous">
             <count>1</count>
         </version>
-            
+        
+        <version name= "Greek" word-choice="Man">
+            <count>2</count>
+        </version>
+        
+        <version name= "Greek" word-choice="Husband">
+            <count>0</count>
+        </version>
+        
+        <version name= "Greek" word-choice="Ambiguous">
+            <count>1</count>
+        </version>   
+        
+        
       
     </character>
     
@@ -70,6 +94,18 @@
         <version name="Wilson" word-choice="Ambiguous">
             <count>0</count>
         </version>
+        
+        <version name= "Greek" word-choice="Man">
+            <count>0</count>
+        </version>
+        
+        <version name= "Greek" word-choice="Husband">
+            <count>3</count>
+        </version>
+        
+        <version name= "Greek" word-choice="Ambiguous">
+            <count>0</count>
+        </version>   
            
     </character>
     
