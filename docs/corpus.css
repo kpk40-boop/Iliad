@@ -113,6 +113,11 @@ p {
     
 }
 
+aside {
+    color: #5e4025;
+    font-side: 1rem;
+}
+
 h1.reading-view-h1 {
     color: beige;
 }
